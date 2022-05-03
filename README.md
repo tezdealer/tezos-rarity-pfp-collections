@@ -2,6 +2,8 @@
 Rarity (scores and ranks) for Tezos PFP collections and other FA2 NFT collections
 
 ## how rarity score is calculated
+The aim is to establish a rarity score and rank calculation that is used consistently across collections. Here's the process that will be followed for all collections.
+
 1. For the entire collection, all attributes and attribute values are identified e.g. Hair: Messy (Attribute: Attribute Value)
 2. For the entire collection, all instances of an attribute value are counted
 3. The total number of tokens in the collection is divided by the total count of an attribute value. 
@@ -10,7 +12,7 @@ Rarity (scores and ranks) for Tezos PFP collections and other FA2 NFT collection
 
 Once the overall scores are determined per attribute value:
 
-1. Per token, a sum is made of the rarity score of each attribute value that the token has. That's it's final rarity score.
+5. Per token, a sum is made of the rarity score of each attribute value that the token has. That is the token's final rarity score.
 
 ## how rank is calculated
 1. Starting with the highest rarity score, tokens receive a rank, beginning with Rank #1 (most rare)
