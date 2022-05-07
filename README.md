@@ -26,4 +26,7 @@ So: #1, #1, #1, #1, #1, #6 (#2-#5 are skipped).
 ## edge cases
 
 ### when attribute value == 'None'
-When an attribute's value has the actual value of 'None' instead of the attribute being omitted altogether from the token metadata, then the attribute will not be counted toward 'total count of attributes' calculation per token. However, the attribute value itself of 'None' will still be given a rarity score (how many others also have 'None' as value for this attribute) and included in overall rarity score. This calculation may change in the future, but for now this is the way it is managed. Note that most collections simply don't include the attribute in the metadata if that specific token doesn't have that attribute.
+When an attribute's value has the actual value of 'None', the entire attribute (name and value) is removed for that token. Most collections don't include an attribute if it has no value, so keeping consistent with what is more the standard.
+
+### when attribute name of 'Status' == value of 'Hidden'
+This is a convention for tokens whose attributes have not yet been revealed (new mints). These tokens will be excluded from the report, and total token count will ignore these tokens.
