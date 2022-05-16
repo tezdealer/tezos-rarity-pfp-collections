@@ -28,5 +28,10 @@ So: #1, #1, #1, #1, #1, #6 (#2-#5 are skipped).
 ### when attribute value == 'None' or 'Nothing'
 When an attribute's value has the actual value of 'None' or 'Nothing', the entire attribute (name and value) is removed for that token. Most collections don't include an attribute if it has no value, so keeping consistent with what is more the standard.
 
-### when attribute name of 'Status' == value of 'Hidden'
-This is a convention for tokens whose attributes have not yet been revealed (new mints). These tokens will be excluded from the report, and total token count will ignore these tokens.
+### when real token metadata has yet to be revealed, ignore
+For tokens whose attributes have yet to be revealed (new mints). These tokens will be excluded from the report, and total token count will ignore these tokens. For example, these tokens can be identified when these conventions are used:
+* attribute name of 'Status' == value of 'Hidden'
+* attribute name of 'Revealed' == value of 'False'
+
+### remove 'meta' attributes
+If summary metadata is included as an attribute like 'Rarity Score', don't evaluate it as an attribute
