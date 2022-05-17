@@ -26,7 +26,7 @@ So: #1, #1, #1, #1, #1, #6 (#2-#5 are skipped).
 ## edge cases
 
 ### when attribute value == 'None' or 'Nothing'
-When an attribute's value has the actual value of 'None' or 'Nothing', the entire attribute (name and value) is removed for that token. Most collections don't include an attribute if it has no value, so keeping consistent with what is more the standard.
+When an attribute's value has the actual value of 'None' or 'Nothing' or if the intent of the value is to indicate no value is applied, the entire attribute (name and value) is removed for that token. Most collections don't include an attribute if it has no value, so keeping consistent with what is more the standard.
 
 ### when real token metadata has yet to be revealed, ignore
 For tokens whose attributes have yet to be revealed (new mints). These tokens will be excluded from the report, and total token count will ignore these tokens. For example, these tokens can be identified when these conventions are used:
