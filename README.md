@@ -30,8 +30,8 @@ When an attribute's value has the actual value of 'None' or 'Nothing', the entir
 
 ### when real token metadata has yet to be revealed, ignore
 For tokens whose attributes have yet to be revealed (new mints). These tokens will be excluded from the report, and total token count will ignore these tokens. For example, these tokens can be identified when these conventions are used:
-* attribute name of 'Status' == value of 'Hidden'
-* attribute name of 'Revealed' == value of 'False'
+* attribute name of 'Status' == 'Hidden', 'Incubating', etc (similar status values are added as needed)
+* attribute name of 'Revealed' == 'False'
 
 ### remove 'meta' attributes
 If summary metadata is included as an attribute like 'Rarity Score', don't evaluate it as an attribute
