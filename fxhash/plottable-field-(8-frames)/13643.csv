@@ -1,0 +1,401 @@
+ID,Name,Rank,Rarity_Score,Angle Mod,Attributes,Center Effect,Circles Amount,Color Blink,Color Changes,Distribution,Inks,Inks Count,Noise Amp,Noise Animation,Noise Frequency
+770183,Plottable Field (8 frames) #73,1,740.466310921705,None,8,None,Medium,None,"Circles, Group",Circles,Evergreen + Indigo,2,Low,Fast,Medium
+843038,Plottable Field (8 frames) #160,2,720.1321841352421,Exactly 5,8,None,None,None,"Y-Split, Group",CrossLines,Amber + Pumpkin,2,High,Slow,Medium
+901761,Plottable Field (8 frames) #218,3,702.1169077354089,Around 5,9,None,Low,None,"Circles, Y-Split, 45deg",Parametric,Bloody Brexit + Hope Pink,2,High,Slow,Low
+925339,Plottable Field (8 frames) #271,4,608.291032609719,Around 3,9,None,None,2,"X-Split, 45deg",GoldSpiralCircle,Indigo + Pink,2,Medium,Normal,Medium
+1126451,Plottable Field (8 frames) #368,5,602.8071125610988,None,7,None,None,None,"X-Split, Group",NestedTriangles,Bloody Brexit + Pink,2,Medium,Partially Normal,High
+921673,Plottable Field (8 frames) #268,6,574.1149176206973,None,7,None,None,None,Group,NestedCircles,Pink + Poppy Red,2,Medium,Partially Very Slow,Medium
+771413,Plottable Field (8 frames) #91,7,570.0488967011802,None,7,None,None,None,"X-Split, Group, Rot",NestedCircles,FireAndIce + Poppy Red,2,High,Intense,Medium
+765494,Plottable Field (8 frames) #9,8,567.1635781238809,None,8,None,Low,None,"Circles, X-Split, Y-Split",YLines,FireAndIce + Pink,2,High,Partially Fast,Medium
+1131786,Plottable Field (8 frames) #385,9,561.1481040311666,Around 5,8,None,None,None,"X-Split, Y-Split",NestedSquares,Evergreen + FireAndIce,2,Medium,Intense,Low
+1131785,Plottable Field (8 frames) #384,10,554.9621650383216,None,8,None,Low,None,Circles,XLines,Evergreen + Soft Mint,2,High,Slow,Low
+917641,Plottable Field (8 frames) #244,11,546.1131531836777,Around 6,8,None,None,None,"X-Split, Y-Split, 45deg",GoldSpiralCircle,Hope Pink + Imperial Purple,2,High,Fast,Low
+998616,Plottable Field (8 frames) #328,12,525.5750372273206,None,7,None,None,None,"X-Split, Y-Split",GoldSpiral,Hope Pink + Indigo,2,Medium,Intense,Medium
+767355,Plottable Field (8 frames) #26,13,524.3243340346369,None,8,None,Low,None,"Circles, X-Split",GoldSpiral,Bloody Brexit + Pumpkin,2,Medium,Slow,Medium
+883180,Plottable Field (8 frames) #197,14,521.9800116903145,None,8,None,Low,None,"Circles, X-Split, Rot",NestedCircles,Poppy Red + Soft Mint,2,Medium,Slow,Medium
+766093,Plottable Field (8 frames) #16,15,518.8217865995559,None,8,None,Low,None,"Circles, X-Split, Group",TriangleSpiral,Amber + Hope Pink,2,Medium,Fast,Low
+998638,Plottable Field (8 frames) #350,16,506.0882464649028,Exactly 7,8,None,High,None,None,Circles,Imperial Purple,1,High,Intense,Low
+810011,Plottable Field (8 frames) #148,17,504.3912828796349,Exactly 6,8,None,None,None,Y-Split,Curve,Amber + Pink,2,Very High,Partially Very Slow,Medium
+895797,Plottable Field (8 frames) #213,18,503.06408120221363,None,7,None,None,None,Y-Split,NestedSquares,Evergreen + Pumpkin,2,Very High,Slow,Medium
+919009,Plottable Field (8 frames) #249,19,501.7341486334802,Around 6,7,None,None,None,None,MillSpiral,Indigo + Poppy Red,2,High,Partially Slow,Medium
+810015,Plottable Field (8 frames) #149,20,490.5425022218924,Exactly 3,7,None,None,None,None,GoldSpiral,Pumpkin,1,Medium,Fast,Medium
+1122971,Plottable Field (8 frames) #365,21,479.73034057008584,None,7,None,None,None,"X-Split, 45deg",GoldSpiralCircle,Hope Pink + Pink,2,Low,Fast,Medium
+906493,Plottable Field (8 frames) #224,22,479.3501013206925,None,7,Yes,None,None,None,GoldSpiral,Amber + Sherwood Green,2,Very High,Partially Normal,Medium
+997886,Plottable Field (8 frames) #304,23,475.8793048718579,None,8,None,None,4,"Y-Split, Group",NestedCircles,FireAndIce + Pumpkin,2,Low,Intense,High
+998608,Plottable Field (8 frames) #321,24,464.08367125145037,None,7,None,None,None,"X-Split, 45deg",NestedSquares,Imperial Purple + Pink,2,Medium,Normal,Low
+996881,Plottable Field (8 frames) #298,25,453.6632987676742,None,6,None,None,None,None,XLines,Aurora Borealis + FireAndIce,2,High,Normal,Low
+1131797,Plottable Field (8 frames) #391,26,452.6696961754756,None,7,None,None,None,Group,NestedSquares,Black + Poppy Red,2,Medium,Very Slow,Medium
+1131794,Plottable Field (8 frames) #389,27,437.4250908472949,None,7,Yes,None,None,None,GoldSpiral,Evergreen + Pink,2,Medium,Fast,Medium
+777181,Plottable Field (8 frames) #106,28,434.0831026578313,None,6,None,None,None,None,Voronoi,Aurora Borealis + Indigo,2,High,Slow,Medium
+765326,Plottable Field (8 frames) #6,29,382.7826008865652,None,8,Yes,None,None,"X-Split, Rot",NestedCircles,Bloody Brexit + FireAndIce,2,High,Normal,Low
+880127,Plottable Field (8 frames) #190,30,382.16320403170533,Around 6,9,None,Low,None,"Circles, X-Split, 45deg",NestedTriangles,Indigo + Soft Mint,2,High,Partially Slow,Low
+901430,Plottable Field (8 frames) #216,31,378.01079542271106,None,8,None,Low,None,"Circles, Y-Split",GoldSpiral,Hope Pink + Poppy Red,2,High,Fast,Medium
+921659,Plottable Field (8 frames) #265,32,369.9103812739737,Around 5,9,None,Huge,None,"Circles, Group",DoubleCircles,Indigo + Pumpkin,2,Low,Fast,Low
+1131810,Plottable Field (8 frames) #398,33,365.18693841139213,None,8,None,Low,None,"Circles, Y-Split",Curve,FireAndIce + Pumpkin,2,High,Intense,Medium
+772461,Plottable Field (8 frames) #93,34,336.75054259028786,None,7,None,None,None,"X-Split, Y-Split, Rot",GoldSpiralCircle,Amber + Imperial Purple,2,Medium,Fast,Medium
+998613,Plottable Field (8 frames) #325,35,324.42938256751495,None,7,None,None,None,"Y-Split, 45deg",GoldSpiral,Hope Pink + Poppy Red,2,High,Slow,Medium
+767517,Plottable Field (8 frames) #43,36,324.311620212695,None,8,None,Medium,None,Group,Circles,Amber + Black,2,High,Normal,Low
+1131768,Plottable Field (8 frames) #373,37,323.22908900688645,Around 5,9,None,High,None,"Circles, 45deg",Circles,Bloody Brexit,1,Medium,Very Slow,Medium
+919308,Plottable Field (8 frames) #251,38,320.9049902931227,None,7,None,None,None,"X-Split, Y-Split, 45deg",NestedSquares,Imperial Purple + Poppy Red,2,Medium,Very Slow,Medium
+998637,Plottable Field (8 frames) #349,39,316.31088045307564,None,8,None,None,1,"X-Split, Y-Split",GoldSpiral,Bloody Brexit + Pink,2,Medium,Normal,Low
+765092,Plottable Field (8 frames) #5,40,310.5670285450204,None,9,None,Low,2,"Circles, X-Split, 45deg",Parametric,Amber + Soft Mint,2,Medium,Partially Fast,High
+913473,Plottable Field (8 frames) #236,41,310.5653873673129,None,7,None,None,None,"Y-Split, Rot",YLines,Evergreen + Hope Pink,2,High,Normal,Medium
+921637,Plottable Field (8 frames) #257,42,306.1884616110768,None,7,None,None,2,None,MillSpiral,Amber + Bloody Brexit,2,Very High,Normal,Medium
+765496,Plottable Field (8 frames) #11,43,302.6013461053322,None,7,None,None,None,Y-Split,GoldSpiral,FireAndIce + Soft Mint,2,Low,Slow,Very High
+918953,Plottable Field (8 frames) #248,44,295.15725079607745,None,7,None,None,1,None,Parametric,Black + Pumpkin,2,Medium,Intense,Low
+1122978,Plottable Field (8 frames) #367,45,295.0098318117573,None,7,None,None,None,X-Split,XLines,Imperial Purple + Poppy Red,2,High,Normal,Medium
+763061,Plottable Field (8 frames) #1,46,293.87711529468936,None,8,None,Huge,None,"X-Split, 45deg",Circles,Evergreen + Hope Pink,2,Medium,Normal,Medium
+998626,Plottable Field (8 frames) #338,47,288.8087184820594,None,6,None,None,None,X-Split,Voronoi,Black + Pumpkin,2,Medium,None,Low
+770210,Plottable Field (8 frames) #78,48,281.09586612179737,None,9,None,Low,4,"Circles, X-Split",Parametric,Amber + Soft Mint,2,Medium,Normal,Medium
+879547,Plottable Field (8 frames) #172,49,279.9114741416696,None,8,None,None,2,Group,NestedSquares,Hope Pink + Soft Mint,2,Medium,Slow,Medium
+929650,Plottable Field (8 frames) #273,50,278.1848821013228,Around 5,9,None,Low,None,Circles,NestedCircles,Black + FireAndIce,2,Medium,Normal,Medium
+1122970,Plottable Field (8 frames) #364,51,271.60802256832534,None,8,None,Low,None,Circles,XLines,Amber + Black,2,High,Partially Slow,Medium
+792868,Plottable Field (8 frames) #141,52,271.4474284226721,None,8,None,Low,None,"Circles, 45deg",NestedSquares,Amber + Pink,2,High,Normal,Low
+901899,Plottable Field (8 frames) #219,53,269.98387437200677,None,7,None,None,None,"X-Split, Rot",Parametric,Amber + Poppy Red,2,Low,Partially Intense,Medium
+769192,Plottable Field (8 frames) #66,54,268.8710405994427,None,8,None,None,1,45deg,TriangleSpiral,Indigo + Soft Mint,2,Medium,Very Slow,Low
+787291,Plottable Field (8 frames) #122,55,266.917754872077,None,8,Yes,None,None,"X-Split, Y-Split, 45deg",Parametric,Black + FireAndIce,2,Very High,Intense,Low
+792870,Plottable Field (8 frames) #142,56,265.59866238316044,Around 6,8,None,None,None,Group,NestedSquares,Amber + Bloody Brexit,2,Medium,Normal,Medium
+929658,Plottable Field (8 frames) #279,57,264.31205365568457,Exactly 6,7,None,None,None,None,GoldSpiralCircle,Poppy Red,1,High,Slow,Low
+885132,Plottable Field (8 frames) #201,58,263.9876468794318,None,9,None,Low,2,"Circles, X-Split, 45deg",Voronoi,Amber + Hope Pink,2,High,Normal,Low
+880001,Plottable Field (8 frames) #188,59,261.53379343312497,Around 6,7,None,None,None,None,GoldSpiral,Amber + Imperial Purple,2,Medium,Very Slow,Medium
+868942,Plottable Field (8 frames) #168,60,261.47183061402586,None,6,None,None,None,None,GoldSpiralCircle,Amber + Indigo,2,Low,Fast,High
+765495,Plottable Field (8 frames) #10,61,256.35953574766825,None,7,None,None,None,"X-Split, Y-Split, Rot",NestedTriangles,FireAndIce + Pink,2,Low,Partially Slow,Medium
+879587,Plottable Field (8 frames) #175,62,254.8950596053624,None,8,None,Low,None,"Circles, Group",Parametric,Bloody Brexit + Soft Mint,2,High,Slow,Medium
+880995,Plottable Field (8 frames) #192,63,253.3858804564049,Around 7,8,None,None,None,Y-Split,NestedSquares,Black + Soft Mint,2,Medium,Fast,Low
+995905,Plottable Field (8 frames) #296,64,253.19565787463617,Around 6,7,None,None,None,None,NestedSquares,Hope Pink + Soft Mint,2,High,Normal,Low
+995743,Plottable Field (8 frames) #294,65,253.09746113350027,None,7,None,High,None,"X-Split, Y-Split",Circles,Bloody Brexit + Soft Mint,2,Medium,None,Medium
+998624,Plottable Field (8 frames) #336,66,251.9945914241961,None,9,None,Low,2,Circles,MillSpiral,Amber + FireAndIce,2,Low,Fast,Low
+929652,Plottable Field (8 frames) #274,67,250.89914506262753,Around 6,7,None,None,None,None,GoldSpiral,Bloody Brexit + FireAndIce,2,Medium,Intense,Medium
+907725,Plottable Field (8 frames) #226,68,247.13386894135627,None,6,None,None,None,"Y-Split, 45deg",GoldSpiralCircle,Black + Soft Mint,2,High,None,Medium
+1122973,Plottable Field (8 frames) #366,69,246.3312126573691,None,8,None,Low,None,"Circles, X-Split, 45deg",GoldSpiralCircle,Amber + Black,2,High,Partially Normal,Low
+1131779,Plottable Field (8 frames) #381,70,243.45146356401204,None,8,None,None,2,"Y-Split, 45deg",GoldSpiral,Amber + Evergreen,2,Medium,Slow,Medium
+998594,Plottable Field (8 frames) #312,71,243.30230608007545,None,8,None,Low,None,Circles,XLines,Poppy Red + Soft Mint,2,Low,Fast,High
+907823,Plottable Field (8 frames) #227,72,240.32996543434086,None,6,None,None,None,None,TriangleSpiral,Amber + Indigo,2,High,Normal,Low
+764369,Plottable Field (8 frames) #2,73,239.40017038924557,None,8,None,Huge,None,"X-Split, Rot",DoubleCircles,Amber + Pink,2,Medium,Slow,Medium
+995544,Plottable Field (8 frames) #292,74,238.64215701625292,None,8,None,Low,None,"Circles, Y-Split",MillSpiral,Amber + FireAndIce,2,Medium,Normal,Medium
+767533,Plottable Field (8 frames) #46,75,237.97961678180383,Around 4,9,None,None,4,Group,NestedTriangles,Amber + FireAndIce,2,Medium,Normal,Low
+770181,Plottable Field (8 frames) #72,76,236.4595642838819,None,8,Yes,None,None,"Y-Split, Rot",Voronoi,Black + Hope Pink,2,Very High,Partially Normal,Medium
+998634,Plottable Field (8 frames) #346,77,235.48553275071797,Exactly 4,7,None,None,None,None,NestedCircles,Amber + Evergreen,2,High,Partially Slow,Low
+867327,Plottable Field (8 frames) #164,78,233.59851540600272,None,6,None,None,None,"Y-Split, 45deg",GoldSpiralCircle,Amber + Evergreen,2,Low,None,Medium
+767167,Plottable Field (8 frames) #19,79,232.31358170171416,None,7,None,None,None,"X-Split, Y-Split, Rot",GoldSpiral,Black + FireAndIce,2,Medium,Partially Normal,Medium
+998405,Plottable Field (8 frames) #308,80,228.58314072492487,None,8,Yes,None,None,"Y-Split, Rot",NestedTriangles,Black + FireAndIce,2,Medium,Fast,Low
+865234,Plottable Field (8 frames) #161,81,227.2758768647565,None,6,None,None,None,None,GoldSpiral,Bloody Brexit + Hope Pink,2,High,Intense,Medium
+767426,Plottable Field (8 frames) #32,82,227.24716638936158,None,8,None,None,2,X-Split,NestedTriangles,Bloody Brexit + Soft Mint,2,Medium,Normal,Low
+767594,Plottable Field (8 frames) #53,83,223.57142558306126,None,8,None,None,4,"X-Split, Y-Split, 45deg",TriangleSpiral,Amber + Pink,2,High,Normal,Medium
+792835,Plottable Field (8 frames) #136,84,222.12171198485674,Exactly 4,9,None,High,None,45deg,Circles,Amber + Poppy Red,2,Medium,Normal,Medium
+879416,Plottable Field (8 frames) #171,85,221.20363811064496,None,8,None,High,None,"Circles, X-Split",Circles,Black + Hope Pink,2,Low,Partially Normal,Medium
+929659,Plottable Field (8 frames) #280,86,220.95319383965884,None,9,Yes,High,None,"X-Split, 45deg",Circles,Pink + Soft Mint,2,Medium,Partially Intense,Low
+998640,Plottable Field (8 frames) #352,87,220.94859827332695,None,5,None,None,None,None,NestedCircles,FireAndIce + Hope Pink,2,Low,None,Medium
+879646,Plottable Field (8 frames) #176,88,215.62000645975183,None,7,None,None,None,"X-Split, Y-Split, 45deg",NestedCircles,Black + Soft Mint,2,High,Fast,Medium
+918206,Plottable Field (8 frames) #245,89,212.09333546743136,None,8,None,Low,None,"Circles, X-Split",Parametric,Black + Hope Pink,2,High,Normal,Medium
+998623,Plottable Field (8 frames) #335,90,211.14602747218393,None,8,None,Low,None,"Circles, X-Split",Parametric,FireAndIce + Pink,2,High,Partially Normal,Low
+944587,Plottable Field (8 frames) #282,91,210.85672873979124,Around 4,8,None,None,None,"X-Split, 45deg",MillSpiral,FireAndIce + Soft Mint,2,High,Intense,Low
+924445,Plottable Field (8 frames) #269,92,208.46765829394695,None,7,None,None,2,None,GoldSpiralCircle,Black + Pink,2,Medium,Fast,Low
+879708,Plottable Field (8 frames) #183,93,207.41569841968456,None,7,None,None,None,Y-Split,Voronoi,Indigo + Soft Mint,2,High,Slow,Low
+907847,Plottable Field (8 frames) #228,94,203.50433015661358,None,7,None,None,None,X-Split,GoldSpiral,FireAndIce + Pumpkin,2,High,Intense,Medium
+770179,Plottable Field (8 frames) #71,95,203.14639330683806,Around 5,8,None,High,None,None,Circles,Aurora Borealis,1,Medium,Normal,Medium
+895781,Plottable Field (8 frames) #212,96,201.0145556990957,Around 4,9,None,None,2,45deg,GoldSpiral,Pink + Soft Mint,2,High,Normal,Low
+1042277,Plottable Field (8 frames) #360,97,199.2911500743291,None,6,None,None,None,None,Voronoi,FireAndIce,1,Low,Intense,Very High
+906623,Plottable Field (8 frames) #225,98,198.5152484726409,None,7,None,None,None,Group,XLines,Bloody Brexit + Pink,2,Medium,Fast,Medium
+913481,Plottable Field (8 frames) #239,99,198.50903702422224,Around 4,7,None,None,None,None,Voronoi,FireAndIce + Poppy Red,2,High,Slow,Low
+1028511,Plottable Field (8 frames) #359,100,197.63609443802002,None,7,None,None,None,45deg,NestedTriangles,FireAndIce + Hope Pink,2,Medium,Normal,Medium
+1120907,Plottable Field (8 frames) #362,101,196.21570075271222,None,8,None,High,None,"Y-Split, Rot",Circles,Amber + Evergreen,2,High,Intense,Low
+767534,Plottable Field (8 frames) #47,102,194.8000212406036,None,6,None,None,None,None,GoldSpiral,Black + Pink,2,Very High,Slow,Low
+994578,Plottable Field (8 frames) #289,103,194.61920403409468,None,7,Yes,None,None,None,GoldSpiral,Bloody Brexit,1,Low,Slow,Very High
+883173,Plottable Field (8 frames) #196,104,194.395791617403,None,8,Yes,None,None,Group,NestedCircles,Black + Pink,2,Medium,Normal,Low
+773769,Plottable Field (8 frames) #97,105,193.1723962763606,None,8,Yes,None,None,X-Split,Parametric,FireAndIce + Soft Mint,2,Medium,Normal,Low
+921650,Plottable Field (8 frames) #263,106,193.09848638729125,None,8,None,High,None,Group,Circles,Indigo + Pumpkin,2,High,Intense,Medium
+777057,Plottable Field (8 frames) #104,107,192.23587359842205,None,8,None,None,1,45deg,NestedTriangles,Amber + Poppy Red,2,Medium,Partially Normal,Medium
+1131791,Plottable Field (8 frames) #388,108,192.1196037718872,None,7,None,None,None,45deg,NestedCircles,Indigo + Pumpkin,2,Medium,Intense,Medium
+890014,Plottable Field (8 frames) #203,109,190.01776065658737,None,7,None,None,4,None,TriangleSpiral,Poppy Red + Soft Mint,2,High,Intense,Low
+780060,Plottable Field (8 frames) #111,110,188.40652854115422,Around 7,7,None,None,None,None,CrossLines,Amber + Pink,2,High,Partially Fast,Medium
+998625,Plottable Field (8 frames) #337,111,185.0139369020694,None,7,None,None,None,X-Split,Voronoi,FireAndIce + Soft Mint,2,High,Partially Normal,Medium
+998599,Plottable Field (8 frames) #314,112,182.8006351253638,None,6,None,None,None,None,TriangleSpiral,FireAndIce + Hope Pink,2,Medium,Partially Normal,Medium
+770144,Plottable Field (8 frames) #67,113,181.4523025740617,None,9,Yes,High,None,Y-Split,Circles,Amber + Pink,2,Medium,Partially Intense,Low
+821267,Plottable Field (8 frames) #153,114,174.27786741599988,None,7,None,None,None,"X-Split, Y-Split, Rot",GoldSpiral,Amber + Soft Mint,2,Medium,Slow,Medium
+996979,Plottable Field (8 frames) #299,115,173.78661069361752,None,8,None,High,None,45deg,Circles,Pink + Soft Mint,2,High,Partially Slow,Medium
+894479,Plottable Field (8 frames) #206,116,172.01898642216085,None,6,None,None,None,None,MillSpiral,Aurora Borealis,1,Medium,Slow,Medium
+926544,Plottable Field (8 frames) #272,117,170.56538736731295,None,7,None,None,None,"Y-Split, Rot",TriangleSpiral,FireAndIce + Pink,2,High,Normal,Medium
+770733,Plottable Field (8 frames) #89,118,169.74732635671637,None,8,None,Low,None,"Circles, Group",NestedSquares,Amber + Pink,2,Medium,Normal,Medium
+998607,Plottable Field (8 frames) #320,119,169.23867471887024,None,8,None,None,1,Group,NestedSquares,Amber + Soft Mint,2,Low,Very Slow,Medium
+998643,Plottable Field (8 frames) #355,120,167.88366971566876,Exactly 5,8,None,High,None,None,Circles,Amber + Hope Pink,2,Medium,Normal,Medium
+998393,Plottable Field (8 frames) #306,121,167.51977335951875,None,7,None,None,None,"Y-Split, Rot",CrossLines,Amber + Soft Mint,2,Medium,Fast,Medium
+770200,Plottable Field (8 frames) #77,122,166.27620351455553,Exactly 5,8,None,None,None,X-Split,NestedSquares,Amber + Pink,2,Medium,Slow,Medium
+767421,Plottable Field (8 frames) #31,123,165.92739123573807,None,6,None,None,None,None,GoldSpiral,Amber,1,High,Partially Very Slow,Medium
+998600,Plottable Field (8 frames) #315,124,163.085709478003,None,7,None,Huge,None,None,DoubleCircles,WhiteOnBlue,1,Low,Normal,Medium
+1004481,Plottable Field (8 frames) #358,125,161.59902743877282,None,7,None,None,None,"X-Split, 45deg",NestedTriangles,Black + Hope Pink,2,High,Fast,Medium
+814333,Plottable Field (8 frames) #150,126,160.13448760512858,None,6,None,None,None,None,GoldSpiral,Aurora Borealis,1,High,Fast,Low
+998628,Plottable Field (8 frames) #340,127,159.98656247849067,Around 7,7,None,None,None,None,Parametric,Evergreen,1,High,Intense,Medium
+880087,Plottable Field (8 frames) #189,128,159.36213813847974,None,6,None,None,None,None,GoldSpiral,FireAndIce + Poppy Red,2,Medium,Fast,Medium
+998639,Plottable Field (8 frames) #351,129,157.79820720138162,None,6,None,None,None,None,Curve,WhiteOnBlue,1,High,Slow,Medium
+905121,Plottable Field (8 frames) #222,130,156.4768941184645,Around 3,7,None,None,None,None,XLines,FireAndIce,1,Medium,Normal,Medium
+998605,Plottable Field (8 frames) #319,131,152.91304122038446,None,8,None,High,1,None,Circles,Amber + FireAndIce,2,Medium,Normal,Low
+1131776,Plottable Field (8 frames) #379,132,149.81305997350472,Around 5,8,None,High,None,None,Circles,WhiteOnBlue,1,Medium,Normal,Medium
+780133,Plottable Field (8 frames) #112,133,147.38471234210476,None,7,None,None,None,Group,NestedCircles,Black + Soft Mint,2,High,Fast,Medium
+908994,Plottable Field (8 frames) #230,134,145.8472702354027,None,7,None,None,None,45deg,NestedSquares,Amber + Black,2,Low,Partially Normal,Medium
+921102,Plottable Field (8 frames) #254,135,145.33733965813963,None,8,None,High,None,X-Split,Circles,Amber + Hope Pink,2,Medium,Normal,Medium
+789196,Plottable Field (8 frames) #126,136,144.04256537712797,Around 7,7,None,None,None,None,CrossLines,Amber,1,Medium,Fast,Medium
+767366,Plottable Field (8 frames) #28,137,143.20488385805828,None,6,None,None,None,None,CrossLines,WhiteOnBlue,1,Medium,Very Slow,Medium
+1131766,Plottable Field (8 frames) #372,138,142.6750829028602,Exactly 5,7,None,None,None,None,MillSpiral,Bloody Brexit,1,Low,Very Slow,Medium
+773467,Plottable Field (8 frames) #94,139,142.18312783630228,None,6,None,None,None,None,GoldSpiralCircle,Pumpkin,1,High,Partially Intense,Medium
+1131804,Plottable Field (8 frames) #394,140,142.08825733706067,Exactly 4,7,None,None,None,None,NestedCircles,Amber,1,High,Very Slow,Low
+770416,Plottable Field (8 frames) #85,141,141.95997068444407,None,8,None,High,None,"X-Split, 45deg",Circles,Amber + Poppy Red,2,High,Fast,Low
+881025,Plottable Field (8 frames) #194,142,141.01468452046404,None,7,None,None,None,Group,CrossLines,Pink + Soft Mint,2,Medium,Very Slow,Medium
+777062,Plottable Field (8 frames) #105,143,140.27151836587245,None,7,None,Huge,None,None,DoubleCircles,Evergreen,1,Medium,Slow,High
+1131814,Plottable Field (8 frames) #400,144,140.17845028282568,None,6,None,None,None,None,TriangleSpiral,Bloody Brexit + Soft Mint,2,Medium,Normal,Low
+792825,Plottable Field (8 frames) #131,145,138.5180809943478,None,8,None,High,None,Group,Circles,Amber + Evergreen,2,Medium,Fast,Medium
+781605,Plottable Field (8 frames) #118,146,137.61723159573202,None,7,None,Huge,None,None,DoubleCircles,WhiteOnBlack,1,High,Partially Slow,Medium
+996982,Plottable Field (8 frames) #300,147,137.2975933166214,None,5,None,None,None,None,GoldSpiral,Sherwood Green,1,Medium,None,Low
+883458,Plottable Field (8 frames) #198,148,134.14914054699582,None,6,None,Huge,None,None,DoubleCircles,Evergreen,1,Medium,None,Medium
+765553,Plottable Field (8 frames) #13,149,133.55206205604816,None,7,None,None,None,"X-Split, 45deg",NestedSquares,Pink + Soft Mint,2,Medium,Slow,Low
+921108,Plottable Field (8 frames) #255,150,133.42484975941235,Around 3,7,None,None,None,None,TriangleSpiral,Amber,1,High,Fast,Medium
+998604,Plottable Field (8 frames) #318,151,133.41009641752046,Exactly 4,7,None,None,None,None,NestedCircles,Bloody Brexit,1,Medium,Normal,Low
+998618,Plottable Field (8 frames) #330,152,133.31313459856088,None,7,None,None,None,Group,CrossLines,Amber + Poppy Red,2,Medium,Normal,High
+1131774,Plottable Field (8 frames) #377,153,132.97484473299195,None,7,None,Huge,None,None,DoubleCircles,Soft Mint,1,Low,Normal,High
+1131809,Plottable Field (8 frames) #397,154,132.4931209971071,None,7,None,None,None,Y-Split,GoldSpiral,Pink + Soft Mint,2,Medium,Slow,Low
+998617,Plottable Field (8 frames) #329,155,132.31067351627254,None,7,None,None,None,X-Split,NestedSquares,Amber + Poppy Red,2,Medium,Fast,Low
+770190,Plottable Field (8 frames) #75,156,132.23205403397958,None,7,None,None,None,Y-Split,NestedTriangles,Amber + FireAndIce,2,High,Normal,Medium
+998630,Plottable Field (8 frames) #342,157,131.8548995020316,Around 6,6,None,None,None,None,TriangleSpiral,Imperial Purple,1,Medium,None,Medium
+776086,Plottable Field (8 frames) #103,158,129.82030790273978,None,7,None,None,None,45deg,CrossLines,Pink,1,Low,Partially Normal,High
+880196,Plottable Field (8 frames) #191,159,129.54376977154706,Around 7,7,None,None,None,None,NestedSquares,Black,1,High,Very Slow,Medium
+998641,Plottable Field (8 frames) #353,160,129.03427587790682,Around 3,7,None,None,None,None,Voronoi,Black,1,Low,Slow,Low
+865237,Plottable Field (8 frames) #162,161,127.35403960981911,None,7,None,None,None,Group,NestedSquares,Black + Hope Pink,2,Low,Slow,Medium
+1131787,Plottable Field (8 frames) #386,162,125.99424764653102,None,7,None,None,None,Y-Split,Parametric,Amber + FireAndIce,2,Medium,Intense,Medium
+879653,Plottable Field (8 frames) #177,163,125.13455363853974,None,7,None,None,None,45deg,Parametric,Poppy Red + Soft Mint,2,Medium,Slow,Low
+792824,Plottable Field (8 frames) #130,164,124.34922203980437,None,6,None,None,None,None,YLines,Poppy Red + Soft Mint,2,Medium,Partially Normal,Low
+792822,Plottable Field (8 frames) #128,165,123.75169555918285,None,6,None,None,None,45deg,GoldSpiral,FireAndIce + Pink,2,High,None,Medium
+998614,Plottable Field (8 frames) #326,166,123.74040534891039,None,7,None,Huge,None,None,DoubleCircles,WhiteOnBlack,1,Low,Intense,High
+770419,Plottable Field (8 frames) #86,167,122.31358170171414,None,7,None,None,None,Y-Split,GoldSpiral,Amber + Soft Mint,2,Medium,Partially Normal,Medium
+1131780,Plottable Field (8 frames) #382,168,122.08272009014414,Exactly 4,7,None,None,None,None,Parametric,Black,1,High,Normal,Low
+882485,Plottable Field (8 frames) #195,169,121.78269493586936,None,5,None,None,None,None,Voronoi,Indigo,1,High,None,Medium
+921633,Plottable Field (8 frames) #256,170,121.62599342791897,None,7,None,None,None,"X-Split, 45deg",MillSpiral,Amber + FireAndIce,2,Medium,Normal,Medium
+998636,Plottable Field (8 frames) #348,171,120.30619316397505,Around 3,7,None,None,None,None,NestedSquares,Black,1,Medium,Intense,Low
+767435,Plottable Field (8 frames) #33,172,119.72754496299756,None,8,None,High,None,45deg,Circles,Soft Mint,1,Low,Very Slow,Medium
+913472,Plottable Field (8 frames) #235,173,117.91299357788422,None,7,Yes,None,None,None,NestedSquares,WhiteOnBlack,1,Low,Partially Fast,High
+908993,Plottable Field (8 frames) #229,174,117.72922448804658,None,7,None,None,2,None,GoldSpiral,Amber + FireAndIce,2,Low,Slow,Medium
+767539,Plottable Field (8 frames) #48,175,116.73316172727795,None,7,None,None,1,None,NestedSquares,Amber + Pink,2,Low,Slow,Medium
+774699,Plottable Field (8 frames) #102,176,116.27893993063176,None,7,None,None,None,Group,Curve,FireAndIce,1,Medium,Fast,Low
+810003,Plottable Field (8 frames) #147,177,115.82590992428614,None,7,None,None,None,Group,Curve,Poppy Red,1,Medium,Intense,Medium
+965225,Plottable Field (8 frames) #288,178,115.59587985582787,None,8,None,High,None,Group,Circles,Amber + Pink,2,Medium,Partially Fast,Medium
+879705,Plottable Field (8 frames) #182,179,114.98263678456233,None,7,None,None,None,"X-Split, 45deg",GoldSpiral,Amber + Poppy Red,2,Medium,Normal,Medium
+998633,Plottable Field (8 frames) #345,180,114.88122509405518,None,7,Yes,None,None,None,Voronoi,Sherwood Green,1,Low,Normal,Medium
+773805,Plottable Field (8 frames) #98,181,114.30100471833008,None,6,None,None,None,None,Voronoi,WhiteOnBlue,1,Medium,Intense,Medium
+765980,Plottable Field (8 frames) #15,182,113.94688165971175,None,7,Yes,None,None,None,MillSpiral,Pumpkin,1,Medium,Normal,Medium
+929654,Plottable Field (8 frames) #275,183,111.8412474944219,None,6,None,None,None,None,CrossLines,Pink,1,High,Partially Fast,Medium
+881019,Plottable Field (8 frames) #193,184,110.15388848722762,None,7,None,High,None,None,DoubleCircles,Indigo,1,Medium,Fast,Medium
+767590,Plottable Field (8 frames) #52,185,110.08809213333598,Around 4,7,None,None,None,None,GoldSpiralCircle,WhiteOnBlack,1,Low,Fast,High
+879696,Plottable Field (8 frames) #181,186,110.05068154733321,Around 4,8,None,High,None,None,Circles,Soft Mint,1,Medium,Slow,Medium
+792863,Plottable Field (8 frames) #140,187,109.62140074134747,Around 6,7,None,None,None,None,GoldSpiral,Hope Pink,1,High,Partially Intense,Low
+919379,Plottable Field (8 frames) #252,188,109.10605384457561,None,6,None,None,None,None,XLines,Amber + Hope Pink,2,Medium,Normal,Medium
+895766,Plottable Field (8 frames) #209,189,109.07221654285753,None,6,None,None,None,None,TriangleSpiral,Pumpkin,1,High,Fast,Low
+768636,Plottable Field (8 frames) #60,190,108.59179675968294,Exactly 5,7,None,None,None,None,GoldSpiral,Hope Pink,1,Medium,Normal,Medium
+831686,Plottable Field (8 frames) #156,191,108.32352079416178,None,6,None,None,None,None,GoldSpiral,Sherwood Green,1,Medium,Fast,High
+895762,Plottable Field (8 frames) #208,192,108.07830404537762,None,7,None,High,None,None,Circles,FireAndIce + Pink,2,Medium,Normal,Medium
+921663,Plottable Field (8 frames) #266,193,107.7386833918578,None,6,None,None,None,None,YLines,FireAndIce,1,High,Partially Fast,Medium
+772429,Plottable Field (8 frames) #92,194,107.38888212740389,None,6,None,None,None,None,NestedTriangles,Amber + Hope Pink,2,Low,Normal,Medium
+895885,Plottable Field (8 frames) #214,195,107.23510847775985,None,7,None,Huge,None,None,DoubleCircles,Poppy Red,1,Medium,Intense,Medium
+1128608,Plottable Field (8 frames) #369,196,107.15055144607078,None,7,None,High,None,None,Circles,Sherwood Green,1,Medium,Normal,Medium
+867334,Plottable Field (8 frames) #165,197,106.99229347007075,Around 4,7,None,None,None,None,Voronoi,Indigo,1,Medium,Slow,Medium
+921647,Plottable Field (8 frames) #262,198,106.57419308954648,None,7,None,Huge,None,None,DoubleCircles,Amber + Pink,2,Medium,Intense,Low
+921643,Plottable Field (8 frames) #260,199,106.02880480514636,None,6,None,None,None,None,GoldSpiral,Amber + Black,2,Medium,Fast,Medium
+769101,Plottable Field (8 frames) #65,200,105.61052852785389,None,6,None,None,None,None,Curve,FireAndIce,1,Medium,Intense,Medium
+774691,Plottable Field (8 frames) #101,201,105.14826116728926,None,5,None,None,None,None,Parametric,Black,1,Medium,None,High
+1131798,Plottable Field (8 frames) #392,202,104.93260179510713,Around 4,8,None,High,None,None,Circles,FireAndIce,1,Medium,Slow,Low
+879977,Plottable Field (8 frames) #185,203,104.83107311425213,None,6,None,None,None,None,Parametric,Sherwood Green,1,Medium,Intense,Low
+891322,Plottable Field (8 frames) #204,204,103.58279526218544,Around 4,7,None,None,None,None,XLines,WhiteOnBlack,1,Medium,Fast,Medium
+788560,Plottable Field (8 frames) #124,205,103.56600622485458,Around 6,7,Yes,None,None,None,NestedSquares,Pink,1,High,None,Low
+995535,Plottable Field (8 frames) #290,206,102.58716824034266,None,6,None,None,None,None,TriangleSpiral,WhiteOnRed,1,High,Very Slow,Medium
+777290,Plottable Field (8 frames) #107,207,101.59006093441502,None,7,None,Huge,None,None,Circles,Black,1,High,Partially Fast,Low
+998406,Plottable Field (8 frames) #309,208,100.61289362031768,Around 6,7,None,None,None,None,CrossLines,Pink,1,High,Normal,Low
+1131811,Plottable Field (8 frames) #399,209,100.59582624900065,None,5,None,None,None,None,NestedSquares,Poppy Red,1,High,None,Medium
+770214,Plottable Field (8 frames) #80,210,100.17976083293524,None,6,None,None,None,None,Parametric,Poppy Red,1,Medium,Partially Intense,Medium
+879983,Plottable Field (8 frames) #187,211,100.02362962841696,None,6,None,None,None,None,Voronoi,Pumpkin,1,High,Fast,Medium
+792834,Plottable Field (8 frames) #135,212,99.64793979507192,Around 4,6,None,None,None,None,Voronoi,Poppy Red,1,Medium,None,Medium
+769069,Plottable Field (8 frames) #64,213,98.71815318238305,None,7,None,None,None,Group,GoldSpiral,FireAndIce,1,Very High,Intense,Low
+879710,Plottable Field (8 frames) #184,214,98.69827935145376,None,6,None,None,None,None,TriangleSpiral,Bloody Brexit,1,Medium,Partially Intense,Medium
+792827,Plottable Field (8 frames) #132,215,98.23936691885712,None,5,None,None,None,None,Voronoi,Hope Pink,1,Medium,None,Medium
+895772,Plottable Field (8 frames) #210,216,97.93272911221932,None,6,None,None,None,None,MillSpiral,Hope Pink,1,Medium,Partially Intense,Medium
+792832,Plottable Field (8 frames) #134,217,97.10313706643872,Around 5,8,None,None,None,Group,NestedSquares,Poppy Red,1,Medium,Intense,Medium
+770293,Plottable Field (8 frames) #82,218,96.78158942315982,Exactly 5,7,None,None,None,None,GoldSpiral,Black,1,High,Normal,Medium
+767527,Plottable Field (8 frames) #45,219,96.76605387084119,None,6,None,None,None,None,NestedTriangles,Indigo,1,Low,Fast,Medium
+997874,Plottable Field (8 frames) #302,220,96.53821719139161,None,6,None,None,None,None,CrossLines,Soft Mint,1,Medium,Very Slow,Medium
+889976,Plottable Field (8 frames) #202,221,96.20508367572467,None,6,None,None,None,None,CrossLines,Black,1,Very High,Fast,Low
+879690,Plottable Field (8 frames) #179,222,95.94701433111202,Around 4,7,None,None,None,None,NestedCircles,Hope Pink,1,Low,Intense,Low
+998642,Plottable Field (8 frames) #354,223,95.79637422919541,None,6,None,None,None,None,GoldSpiral,Imperial Purple,1,Medium,Normal,High
+792829,Plottable Field (8 frames) #133,224,95.65535005852448,None,6,None,None,None,None,NestedTriangles,WhiteOnRed,1,High,Slow,Medium
+998397,Plottable Field (8 frames) #307,225,94.97834270684314,None,7,None,Huge,None,None,DoubleCircles,Black,1,Low,Slow,Medium
+770174,Plottable Field (8 frames) #70,226,94.49424757293131,None,7,Yes,None,None,None,GoldSpiral,Indigo,1,Medium,Normal,High
+944590,Plottable Field (8 frames) #283,227,93.929159582334,None,5,None,None,None,None,NestedSquares,WhiteOnBlack,1,High,None,Medium
+1131770,Plottable Field (8 frames) #375,228,93.79102837990798,None,6,None,None,None,None,GoldSpiral,Poppy Red + Soft Mint,2,Medium,Intense,Medium
+771404,Plottable Field (8 frames) #90,229,93.67323521857908,None,6,None,None,None,None,GoldSpiralCircle,Hope Pink,1,High,Partially Fast,Low
+767452,Plottable Field (8 frames) #34,230,93.34151046732387,None,6,None,None,None,None,Curve,Amber,1,High,Fast,Low
+998610,Plottable Field (8 frames) #323,231,93.11469288372096,None,6,None,None,None,None,GoldSpiral,Sherwood Green,1,Medium,Slow,Low
+878170,Plottable Field (8 frames) #169,232,92.96507964446984,Around 5,7,None,None,None,None,YLines,Bloody Brexit,1,High,Fast,Medium
+770170,Plottable Field (8 frames) #69,233,92.40242608191627,None,6,None,None,None,None,Voronoi,Hope Pink,1,High,Partially Slow,Medium
+781559,Plottable Field (8 frames) #117,234,92.26471291788734,None,6,None,None,None,None,NestedCircles,Evergreen,1,Medium,Very Slow,Medium
+921655,Plottable Field (8 frames) #264,235,91.77817021099139,None,6,None,None,None,None,NestedCircles,Imperial Purple,1,Medium,Normal,Low
+998413,Plottable Field (8 frames) #310,236,91.71762112079554,None,6,None,None,None,None,GoldSpiral,Pumpkin,1,High,Slow,Medium
+767505,Plottable Field (8 frames) #40,237,91.09552605025932,None,6,None,None,None,None,GoldSpiralCircle,Amber + Soft Mint,2,High,Intense,Low
+917633,Plottable Field (8 frames) #243,238,90.86236188138994,None,5,None,None,None,None,NestedCircles,Black,1,High,None,Low
+918952,Plottable Field (8 frames) #247,239,90.70544781023513,None,6,None,None,None,None,TriangleSpiral,WhiteOnRed,1,Medium,Fast,Medium
+767563,Plottable Field (8 frames) #51,240,90.51332394614514,None,6,None,None,None,None,YLines,Evergreen,1,High,Normal,Low
+767492,Plottable Field (8 frames) #38,241,90.51111046584373,None,6,None,None,None,None,NestedSquares,Amber + Hope Pink,2,Medium,Intense,Low
+770212,Plottable Field (8 frames) #79,242,90.49982010460742,None,6,None,None,None,None,Voronoi,Imperial Purple,1,High,Fast,Medium
+883917,Plottable Field (8 frames) #200,243,90.4684581100285,Around 6,7,None,None,None,None,GoldSpiral,Indigo,1,High,Normal,Medium
+921642,Plottable Field (8 frames) #259,244,88.79305928928426,None,7,None,None,None,45deg,NestedCircles,Soft Mint,1,High,Normal,Low
+911558,Plottable Field (8 frames) #232,245,88.78137851990029,None,6,None,None,None,None,TriangleSpiral,Amber + Soft Mint,2,High,Normal,Medium
+765652,Plottable Field (8 frames) #14,246,88.7439743971488,None,5,None,None,None,None,Parametric,Black,1,High,None,Medium
+770455,Plottable Field (8 frames) #88,247,88.59245924563365,None,5,None,None,None,None,Parametric,Black,1,Medium,None,Medium
+998632,Plottable Field (8 frames) #344,248,88.52652365689497,None,7,None,None,None,45deg,GoldSpiralCircle,Soft Mint,1,High,Normal,Medium
+929657,Plottable Field (8 frames) #278,249,87.97774649677457,None,5,None,None,None,None,Voronoi,Black,1,High,None,Low
+767522,Plottable Field (8 frames) #44,250,87.14115824548136,Around 6,8,None,None,None,Group,Parametric,Amber,1,High,Slow,Medium
+894459,Plottable Field (8 frames) #205,251,86.99520801774877,None,7,None,None,None,45deg,GoldSpiral,Hope Pink,1,Low,Normal,High
+792873,Plottable Field (8 frames) #144,252,86.98365410015765,None,7,Yes,None,None,None,XLines,WhiteOnBlack,1,Medium,Fast,Low
+998601,Plottable Field (8 frames) #316,253,86.64061430321077,Around 6,7,None,None,None,None,Parametric,Amber,1,Medium,Normal,High
+1131808,Plottable Field (8 frames) #396,254,86.25696727599536,None,6,None,None,None,None,NestedSquares,Black,1,Very High,Very Slow,Low
+894486,Plottable Field (8 frames) #207,255,85.26688968178033,None,7,Yes,None,None,None,NestedTriangles,FireAndIce,1,High,Slow,Low
+1128609,Plottable Field (8 frames) #370,256,84.60415148587772,None,7,None,High,None,None,Circles,Poppy Red,1,Low,Partially Normal,Medium
+995541,Plottable Field (8 frames) #291,257,84.50348601883942,None,7,None,Huge,None,None,Circles,Amber + Pink,2,High,Intense,Low
+998619,Plottable Field (8 frames) #331,258,84.4272673445927,None,6,None,None,None,None,MillSpiral,Evergreen,1,Medium,Intense,Medium
+913895,Plottable Field (8 frames) #242,259,84.36877743574496,None,6,None,None,None,None,GoldSpiralCircle,WhiteOnRed,1,Medium,Normal,Medium
+785830,Plottable Field (8 frames) #121,260,84.32871600810618,Around 5,7,None,None,None,None,MillSpiral,Bloody Brexit,1,Medium,Fast,Medium
+998620,Plottable Field (8 frames) #332,261,84.25383490700932,None,6,None,None,None,None,NestedTriangles,Pink,1,High,Very Slow,Medium
+770219,Plottable Field (8 frames) #81,262,84.13183221051597,None,7,Yes,None,None,None,YLines,Pink,1,High,Normal,Low
+1131769,Plottable Field (8 frames) #374,263,83.93587700284452,None,6,None,None,None,None,NestedSquares,Imperial Purple,1,Medium,Normal,Medium
+913318,Plottable Field (8 frames) #233,264,83.9344698845488,None,7,None,None,None,Group,MillSpiral,Soft Mint,1,High,Slow,Low
+783587,Plottable Field (8 frames) #120,265,83.74239851142659,None,6,None,None,None,None,GoldSpiral,Imperial Purple,1,High,Slow,Low
+770414,Plottable Field (8 frames) #84,266,83.64551635834644,None,7,Yes,None,None,None,GoldSpiral,WhiteOnRed,1,High,Normal,Medium
+781435,Plottable Field (8 frames) #115,267,83.58107888011585,None,7,Yes,None,None,None,GoldSpiral,Black,1,Medium,Partially Intense,Medium
+792836,Plottable Field (8 frames) #137,268,83.4843617235076,None,7,Yes,None,None,None,XLines,Hope Pink,1,Medium,Normal,Medium
+965223,Plottable Field (8 frames) #287,269,83.42146944049752,None,6,None,None,None,None,YLines,Pink,1,Medium,Partially Normal,Low
+767486,Plottable Field (8 frames) #36,270,82.6113630968952,None,7,Yes,None,None,None,Voronoi,Amber + Pink,2,Medium,Normal,High
+765083,Plottable Field (8 frames) #4,271,81.48487897680721,Around 6,7,None,None,None,None,YLines,Black,1,High,Intense,Medium
+879693,Plottable Field (8 frames) #180,272,81.40524163301892,Around 5,7,None,None,None,None,MillSpiral,Black,1,High,Partially Normal,Medium
+998631,Plottable Field (8 frames) #343,273,81.24647137187368,None,8,Yes,None,None,45deg,NestedSquares,Amber,1,High,Fast,Low
+921638,Plottable Field (8 frames) #258,274,79.5841588321772,None,7,None,None,None,Group,MillSpiral,Soft Mint,1,High,Normal,Medium
+931223,Plottable Field (8 frames) #281,275,77.53117059813812,None,6,None,None,None,None,NestedCircles,Indigo,1,Medium,Normal,Medium
+843015,Plottable Field (8 frames) #159,276,77.44827935145376,None,6,None,None,None,None,Voronoi,Indigo,1,Medium,Slow,Medium
+842879,Plottable Field (8 frames) #158,277,77.03161268478709,None,6,None,None,None,None,NestedSquares,Black,1,High,Partially Slow,Medium
+895776,Plottable Field (8 frames) #211,278,76.83444011761914,None,6,None,None,None,None,YLines,Pink,1,High,Intense,Low
+1131775,Plottable Field (8 frames) #378,279,76.4848789768072,Around 5,7,None,None,None,None,TriangleSpiral,Black,1,High,Intense,Medium
+998621,Plottable Field (8 frames) #333,280,76.48345428249125,None,7,Yes,None,None,None,Voronoi,Bloody Brexit,1,High,Very Slow,Medium
+796501,Plottable Field (8 frames) #146,281,76.16165826644558,None,6,None,None,None,None,GoldSpiral,Indigo,1,Low,Fast,Medium
+767513,Plottable Field (8 frames) #42,282,76.11600378416198,Around 5,6,None,None,None,None,GoldSpiral,Amber,1,Medium,None,Low
+781730,Plottable Field (8 frames) #119,283,75.75265170273062,None,7,None,None,None,Group,GoldSpiralCircle,Pink,1,High,Slow,Low
+767604,Plottable Field (8 frames) #55,284,75.57311240733766,None,7,None,None,None,Group,GoldSpiralCircle,Bloody Brexit,1,High,Partially Normal,Medium
+767170,Plottable Field (8 frames) #20,285,75.51732017869317,None,7,None,High,None,None,Circles,Soft Mint,1,High,Normal,Low
+961179,Plottable Field (8 frames) #285,286,75.48506009893212,None,7,None,None,None,Group,GoldSpiral,Bloody Brexit,1,Low,Normal,High
+792843,Plottable Field (8 frames) #139,287,75.35773101090543,None,6,None,None,None,None,YLines,WhiteOnBlack,1,High,Partially Normal,Medium
+913484,Plottable Field (8 frames) #240,288,75.1343380516634,None,6,None,None,None,None,XLines,WhiteOnBlack,1,Medium,Intense,Medium
+879552,Plottable Field (8 frames) #173,289,75.01141066458509,None,6,None,None,None,None,NestedSquares,Soft Mint,1,High,Very Slow,Medium
+780146,Plottable Field (8 frames) #114,290,74.96377062045771,None,7,None,None,None,45deg,NestedCircles,Hope Pink,1,High,Normal,Medium
+781437,Plottable Field (8 frames) #116,291,74.89943930261371,None,6,None,None,None,None,GoldSpiral,WhiteOnRed,1,Medium,Slow,Medium
+766205,Plottable Field (8 frames) #17,292,74.79807036503787,None,6,None,None,None,None,Voronoi,Evergreen,1,High,Normal,Medium
+998603,Plottable Field (8 frames) #317,293,74.32514909417718,None,6,None,None,None,None,NestedSquares,Black,1,Very High,Slow,Low
+767551,Plottable Field (8 frames) #50,294,73.92791639855739,None,6,None,None,None,None,GoldSpiralCircle,Bloody Brexit,1,Medium,Fast,High
+768479,Plottable Field (8 frames) #59,295,73.22053284522482,None,7,None,None,None,Group,TriangleSpiral,Hope Pink,1,High,Intense,Medium
+792839,Plottable Field (8 frames) #138,296,73.02326549390648,None,6,None,None,None,None,CrossLines,WhiteOnBlack,1,Medium,Fast,Low
+901446,Plottable Field (8 frames) #217,297,72.43565308882751,None,6,None,None,None,None,NestedSquares,Black,1,Medium,Partially Fast,Medium
+901900,Plottable Field (8 frames) #220,298,72.14784469626345,Around 5,7,None,None,None,None,GoldSpiral,Amber + Pink,2,High,Normal,Medium
+929655,Plottable Field (8 frames) #276,299,72.09771516468268,None,6,None,None,None,None,GoldSpiral,WhiteOnRed,1,Medium,Normal,Medium
+1131784,Plottable Field (8 frames) #383,299,72.09771516468268,None,6,None,None,None,None,GoldSpiral,WhiteOnRed,1,Medium,Normal,Medium
+767321,Plottable Field (8 frames) #22,301,71.93121637210949,None,7,None,None,None,45deg,GoldSpiral,Amber + Pink,2,High,Fast,Low
+997873,Plottable Field (8 frames) #301,302,71.4344698845488,None,7,None,None,None,Group,Voronoi,FireAndIce,1,Medium,Slow,Low
+767497,Plottable Field (8 frames) #39,303,71.30119401402409,None,7,Yes,None,None,None,NestedCircles,Poppy Red,1,High,Normal,Medium
+924798,Plottable Field (8 frames) #270,304,71.13457070992348,None,7,Yes,None,None,None,MillSpiral,Hope Pink,1,Medium,Slow,Medium
+998635,Plottable Field (8 frames) #347,305,71.04398581301388,None,6,None,None,None,None,GoldSpiral,Evergreen,1,High,Slow,Low
+769056,Plottable Field (8 frames) #62,306,70.76898642216084,None,6,None,None,None,None,MillSpiral,WhiteOnBlack,1,High,Very Slow,Medium
+773864,Plottable Field (8 frames) #99,307,70.02103067420508,None,6,None,None,None,None,Parametric,FireAndIce,1,Medium,Partially Normal,Medium
+767601,Plottable Field (8 frames) #54,308,69.74181576084383,None,6,None,None,None,None,YLines,Black,1,Medium,Very Slow,Low
+767706,Plottable Field (8 frames) #56,309,69.58901600233561,None,7,None,Huge,None,None,Circles,Amber,1,Medium,Normal,Low
+996489,Plottable Field (8 frames) #297,310,69.36877743574496,None,6,None,None,None,None,NestedTriangles,FireAndIce,1,Medium,Normal,Medium
+1001894,Plottable Field (8 frames) #357,311,68.6401274522814,None,7,None,None,None,Group,GoldSpiralCircle,Hope Pink,1,Medium,Fast,Medium
+773587,Plottable Field (8 frames) #96,312,68.54375349796288,None,7,Yes,None,None,None,Parametric,Amber,1,Medium,Partially Normal,Medium
+767348,Plottable Field (8 frames) #25,313,68.37592145460519,None,7,Yes,None,None,None,GoldSpiral,Soft Mint,1,Medium,Normal,Low
+910216,Plottable Field (8 frames) #231,314,68.26995428898236,None,6,None,None,None,None,MillSpiral,Bloody Brexit,1,Medium,Partially Normal,Low
+1131777,Plottable Field (8 frames) #380,315,68.24226167508284,None,6,None,None,None,None,GoldSpiral,Evergreen,1,High,Normal,Low
+767509,Plottable Field (8 frames) #41,316,67.34879999037038,Around 4,7,None,None,None,None,GoldSpiral,Black,1,Low,Normal,Medium
+792876,Plottable Field (8 frames) #145,317,65.5794582210286,Around 4,7,None,None,None,None,NestedSquares,Black,1,High,Normal,Medium
+929656,Plottable Field (8 frames) #277,318,65.30181470498911,None,6,None,None,None,None,MillSpiral,WhiteOnBlack,1,Low,Slow,Medium
+998644,Plottable Field (8 frames) #356,319,64.1902962950836,None,6,None,None,None,None,GoldSpiralCircle,Pink,1,High,Fast,Medium
+765347,Plottable Field (8 frames) #7,320,63.88703135767233,None,6,None,None,None,None,Parametric,FireAndIce,1,High,Fast,Low
+995890,Plottable Field (8 frames) #295,321,63.43712406885029,None,7,None,High,None,None,Circles,WhiteOnBlack,1,High,Slow,Medium
+766826,Plottable Field (8 frames) #18,322,63.342886532913916,None,6,None,None,None,None,NestedCircles,Amber + Pink,2,High,Intense,Low
+1131772,Plottable Field (8 frames) #376,323,63.07533124022186,None,7,Yes,None,None,None,Voronoi,Black,1,Medium,Partially Normal,Low
+764961,Plottable Field (8 frames) #3,324,62.92807733125174,None,6,None,None,None,None,NestedSquares,Soft Mint,1,Medium,Slow,Medium
+765522,Plottable Field (8 frames) #12,325,62.55059561756313,None,6,None,None,None,None,MillSpiral,Poppy Red,1,Medium,Normal,Medium
+998596,Plottable Field (8 frames) #313,326,62.50461190778632,None,6,None,None,None,None,NestedCircles,WhiteOnBlack,1,Low,Slow,Medium
+767371,Plottable Field (8 frames) #29,327,62.27755513533702,Around 5,7,None,None,None,None,GoldSpiral,Black,1,Medium,Intense,Low
+879339,Plottable Field (8 frames) #170,328,62.18398684535983,None,7,None,High,None,None,Circles,Bloody Brexit,1,High,Normal,Low
+767381,Plottable Field (8 frames) #30,329,61.37060363963171,None,6,None,None,None,None,Voronoi,FireAndIce,1,High,Slow,Low
+998622,Plottable Field (8 frames) #334,330,61.186959253926766,None,6,None,None,None,None,GoldSpiralCircle,Poppy Red,1,High,Normal,Medium
+787296,Plottable Field (8 frames) #123,331,60.85696296175027,None,6,None,None,None,None,TriangleSpiral,WhiteOnBlack,1,High,Fast,Medium
+767363,Plottable Field (8 frames) #27,332,60.65535005852446,None,6,None,None,None,None,TriangleSpiral,Bloody Brexit,1,High,Slow,Medium
+842877,Plottable Field (8 frames) #157,333,60.21939045878812,None,7,None,None,None,Group,NestedSquares,Amber,1,Low,Slow,Medium
+913477,Plottable Field (8 frames) #237,334,60.160667873497935,None,7,Yes,None,None,None,GoldSpiral,FireAndIce,1,Medium,Normal,Medium
+899421,Plottable Field (8 frames) #215,335,60.07584814281565,None,6,None,None,None,None,YLines,Black,1,Low,Normal,Medium
+770187,Plottable Field (8 frames) #74,336,59.75333540650981,None,6,None,None,None,None,GoldSpiral,Pink,1,High,Partially Normal,Medium
+995740,Plottable Field (8 frames) #293,337,58.71908848811656,None,6,None,None,None,None,GoldSpiralCircle,Bloody Brexit,1,Medium,Slow,Low
+1131788,Plottable Field (8 frames) #387,338,58.31592159910061,None,6,None,None,None,None,Parametric,WhiteOnBlack,1,High,Intense,Low
+767778,Plottable Field (8 frames) #57,339,58.30948956303816,None,7,None,None,None,Group,Voronoi,Amber,1,Medium,Intense,Medium
+868919,Plottable Field (8 frames) #166,340,58.163125633766604,None,6,None,None,None,None,YLines,Black,1,High,Fast,Low
+767338,Plottable Field (8 frames) #24,341,57.951165570844,None,7,Yes,None,None,None,GoldSpiral,Amber + Pink,2,Medium,Normal,Medium
+868932,Plottable Field (8 frames) #167,342,57.86878317712999,None,6,None,None,None,None,NestedCircles,Amber,1,High,Partially Normal,Medium
+773510,Plottable Field (8 frames) #95,343,57.55858047590583,None,6,None,None,None,None,YLines,Black,1,Medium,Intense,Medium
+998629,Plottable Field (8 frames) #341,344,57.23022751712615,None,7,None,High,None,None,Circles,Amber,1,High,Slow,Medium
+1131801,Plottable Field (8 frames) #393,345,56.86877743574495,None,6,None,None,None,None,Voronoi,Pink,1,Medium,Normal,Medium
+961177,Plottable Field (8 frames) #284,346,56.09006319485051,None,6,None,None,None,None,NestedCircles,Bloody Brexit,1,Medium,Fast,Medium
+905616,Plottable Field (8 frames) #223,347,55.47016487333928,None,6,None,None,None,None,Parametric,WhiteOnBlack,1,High,Slow,Medium
+831682,Plottable Field (8 frames) #154,348,55.44995757577096,None,6,None,None,None,None,GoldSpiral,Amber,1,Medium,Fast,High
+780136,Plottable Field (8 frames) #113,349,55.065830206018006,None,7,None,None,None,Group,GoldSpiral,Hope Pink,1,High,Normal,Low
+1131765,Plottable Field (8 frames) #371,350,54.96340760497798,Around 6,7,None,None,None,None,GoldSpiral,Black,1,Medium,Normal,Medium
+1131807,Plottable Field (8 frames) #395,351,54.42850337919512,None,7,None,High,None,None,Circles,Amber,1,High,Normal,Medium
+913478,Plottable Field (8 frames) #238,352,54.30100471833007,None,6,None,None,None,None,Voronoi,Bloody Brexit,1,Medium,Intense,Medium
+1061157,Plottable Field (8 frames) #361,353,54.17807733125174,None,6,None,None,None,None,Voronoi,Black,1,High,Very Slow,Medium
+998615,Plottable Field (8 frames) #327,354,53.86540230904345,None,6,None,None,None,None,GoldSpiral,Hope Pink,1,Low,Intense,Medium
+831684,Plottable Field (8 frames) #155,355,53.46782093846191,None,6,None,None,None,None,GoldSpiral,Poppy Red,1,High,Fast,Low
+998609,Plottable Field (8 frames) #322,356,53.45968652665404,None,6,None,None,None,None,NestedSquares,Poppy Red,1,Medium,Normal,Medium
+997933,Plottable Field (8 frames) #305,357,53.266208035236104,None,6,None,None,None,None,GoldSpiral,Pink,1,High,Slow,Low
+789591,Plottable Field (8 frames) #127,358,53.08666873984315,None,6,None,None,None,None,GoldSpiral,Bloody Brexit,1,High,Partially Normal,Medium
+905067,Plottable Field (8 frames) #221,359,52.59201587519489,None,6,None,None,None,None,NestedSquares,WhiteOnBlack,1,High,Intense,Low
+767543,Plottable Field (8 frames) #49,360,51.76771887250619,None,6,None,None,None,None,GoldSpiral,Poppy Red,1,Medium,Fast,Medium
+1131795,Plottable Field (8 frames) #390,360,51.76771887250619,None,6,None,None,None,None,GoldSpiral,FireAndIce,1,Medium,Fast,Medium
+998627,Plottable Field (8 frames) #339,362,50.312968745789924,None,6,None,None,None,None,GoldSpiral,Pink,1,Medium,Normal,Low
+998494,Plottable Field (8 frames) #311,363,49.828547550687475,None,6,None,None,None,None,MillSpiral,Amber,1,High,Normal,Medium
+777336,Plottable Field (8 frames) #108,364,49.746259149433556,None,6,None,None,None,None,NestedSquares,WhiteOnBlack,1,High,Slow,Medium
+919304,Plottable Field (8 frames) #250,365,49.72630902182835,None,7,None,High,None,None,Circles,Black,1,High,Normal,Medium
+883882,Plottable Field (8 frames) #199,366,48.915896982864496,None,6,None,None,None,None,GoldSpiral,Pink,1,High,Normal,Medium
+921645,Plottable Field (8 frames) #261,366,48.915896982864496,None,6,None,None,None,None,GoldSpiral,Poppy Red,1,High,Normal,Medium
+997884,Plottable Field (8 frames) #303,368,48.497040421240904,None,6,None,None,None,None,Voronoi,Amber,1,High,Slow,Low
+788590,Plottable Field (8 frames) #125,369,48.42146944049751,None,6,None,None,None,None,NestedSquares,Black,1,High,Partially Normal,Low
+767491,Plottable Field (8 frames) #37,370,48.31339603553596,None,6,None,None,None,None,GoldSpiralCircle,Amber,1,High,Normal,Medium
+913679,Plottable Field (8 frames) #241,371,48.276843951044434,None,6,None,None,None,None,GoldSpiral,Amber,1,Medium,Partially Normal,Low
+769066,Plottable Field (8 frames) #63,372,47.978175082962395,None,6,None,None,None,None,MillSpiral,Black,1,Medium,Fast,Medium
+767459,Plottable Field (8 frames) #35,373,47.85378585074261,None,6,None,None,None,None,GoldSpiral,Hope Pink,1,High,Fast,Low
+770412,Plottable Field (8 frames) #83,374,47.40075584439698,None,6,None,None,None,None,GoldSpiral,Hope Pink,1,High,Intense,Medium
+918803,Plottable Field (8 frames) #246,375,46.94453501150252,None,6,None,None,None,None,NestedSquares,WhiteOnBlack,1,High,Normal,Medium
+792872,Plottable Field (8 frames) #143,376,46.793019859987375,None,6,None,None,None,None,TriangleSpiral,Black,1,Medium,Normal,Medium
+965221,Plottable Field (8 frames) #286,377,46.64963912028009,None,6,None,None,None,None,GoldSpiral,Bloody Brexit,1,Medium,Fast,Low
+768994,Plottable Field (8 frames) #61,378,46.34812426544961,None,6,None,None,None,None,GoldSpiral,Bloody Brexit,1,High,Intense,Medium
+765405,Plottable Field (8 frames) #8,379,46.305198936302034,None,6,None,None,None,None,GoldSpiral,Hope Pink,1,High,Fast,Medium
+913469,Plottable Field (8 frames) #234,380,46.257715160905924,None,7,None,None,None,Group,GoldSpiral,Amber,1,High,Normal,Medium
+792823,Plottable Field (8 frames) #129,381,45.65441475279094,None,7,None,None,None,Group,GoldSpiral,Black,1,High,Intense,Medium
+767326,Plottable Field (8 frames) #23,382,44.85044880958577,None,6,None,None,None,None,GoldSpiral,Hope Pink,1,High,Normal,Low
+767317,Plottable Field (8 frames) #21,383,44.146729368869295,None,6,None,None,None,None,Voronoi,Amber,1,High,Normal,Medium
+814335,Plottable Field (8 frames) #151,384,42.50009056705808,None,6,None,None,None,None,NestedSquares,Black,1,Low,Normal,Medium
+814347,Plottable Field (8 frames) #152,385,41.75934982631734,None,6,None,None,None,None,Parametric,Black,1,High,Normal,Medium
+921669,Plottable Field (8 frames) #267,386,40.73763845977838,None,6,None,None,None,None,NestedSquares,Amber,1,High,Normal,Medium
+879982,Plottable Field (8 frames) #186,387,40.3926448168453,None,6,None,None,None,None,GoldSpiral,Amber,1,High,Slow,Low
+998612,Plottable Field (8 frames) #324,387,40.3926448168453,None,6,None,None,None,None,GoldSpiral,Amber,1,High,Slow,Low
+879578,Plottable Field (8 frames) #174,389,40.14122771372548,None,6,None,None,None,None,GoldSpiral,Amber,1,High,Intense,Medium
+777609,Plottable Field (8 frames) #109,390,37.43940552739911,None,6,None,None,None,None,GoldSpiral,Amber,1,Medium,Normal,Low
+865379,Plottable Field (8 frames) #163,390,37.43940552739911,None,6,None,None,None,None,GoldSpiral,Amber,1,Medium,Normal,Low
+774256,Plottable Field (8 frames) #100,392,35.88392895089646,None,6,None,None,None,None,NestedSquares,Black,1,Medium,Normal,Medium
+1120908,Plottable Field (8 frames) #363,393,35.28751820484356,None,6,None,None,None,None,GoldSpiral,Black,1,Medium,Intense,Medium
+770197,Plottable Field (8 frames) #76,394,33.9903483935228,None,6,None,None,None,None,GoldSpiral,Black,1,Medium,Slow,Medium
+919380,Plottable Field (8 frames) #253,395,31.340139407106918,None,6,None,None,None,None,GoldSpiral,Black,1,High,Normal,Medium
+770166,Plottable Field (8 frames) #68,396,31.188624255591762,None,6,None,None,None,None,GoldSpiral,Black,1,Medium,Normal,Medium
+879654,Plottable Field (8 frames) #178,396,31.188624255591762,None,6,None,None,None,None,GoldSpiral,Black,1,Medium,Normal,Medium
+768474,Plottable Field (8 frames) #58,398,0,None,0,None,None,None,None,None,None,None,None,None,None
+770421,Plottable Field (8 frames) #87,398,0,None,0,None,None,None,None,None,None,None,None,None,None
+779837,Plottable Field (8 frames) #110,398,0,None,0,None,None,None,None,None,None,None,None,None,None
