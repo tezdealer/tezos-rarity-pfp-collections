@@ -1,0 +1,2306 @@
+{
+  "total_tokens": 170,
+  "attributes": [
+    "Attributes",
+    "black & white",
+    "board material",
+    "feeling",
+    "free will",
+    "mode",
+    "number of layers",
+    "rendering",
+    "round pads drilling",
+    "shape",
+    "side"
+  ],
+  "all_attribute_values": {
+    "Attributes": [
+      "10"
+    ],
+    "black & white": [
+      "no",
+      "yes"
+    ],
+    "board material": [
+      "75k pink",
+      "glass",
+      "paper",
+      "sandpaper"
+    ],
+    "feeling": [
+      "almost adventurous",
+      "almost anxious",
+      "almost doubtful",
+      "almost ecstatic",
+      "almost happy",
+      "almost hopeful",
+      "almost joyful",
+      "almost melancholic",
+      "almost shameless",
+      "approximately adventurous",
+      "approximately lustful",
+      "approximately nostalgic",
+      "bizarrely creative",
+      "bizarrely curious",
+      "bizarrely deterministic",
+      "bizarrely hungry",
+      "bizarrely loving",
+      "blissfully bored",
+      "blissfully doubtful",
+      "blissfully in love",
+      "bloody angry",
+      "bloody curious",
+      "bloody sarcastic",
+      "chiefly clueless",
+      "chiefly hungry",
+      "chiefly joyful",
+      "chiefly satisfied",
+      "clearly amazed",
+      "clearly ecstatic",
+      "clearly in love",
+      "clearly jealous",
+      "clearly loving",
+      "clearly pessimistic",
+      "clearly satisfied",
+      "clearly shameless",
+      "clearly tormented",
+      "compulsively creative",
+      "compulsively deterministic",
+      "compulsively puzzled",
+      "definitely bored",
+      "definitely confused",
+      "definitely worried",
+      "eventually cute",
+      "eventually hungry",
+      "eventually jealous",
+      "eventually shameless",
+      "half bewitched",
+      "half cute",
+      "half doubtful",
+      "half melancholic",
+      "half proud",
+      "half sensitive",
+      "half shameless",
+      "hopefully clueless",
+      "hopefully dubious",
+      "hopefully ecstatic",
+      "hopefully lustful",
+      "hopefully proud",
+      "increasingly joyful",
+      "increasingly thrilled",
+      "joyfully nostalgic",
+      "joyfully sceptic",
+      "maybe bewildered",
+      "maybe happy",
+      "maybe nostalgic",
+      "maybe sarcastic",
+      "maybe satisfied",
+      "mostly bewitched",
+      "mostly in love",
+      "mostly joyful",
+      "mostly loving",
+      "mostly melancholic",
+      "mostly optimistic",
+      "mostly tormented",
+      "nearly cute",
+      "nearly ecstatic",
+      "nearly envious",
+      "nearly puzzled",
+      "oddly adorable",
+      "oddly angry",
+      "oddly joyful",
+      "oddly shameless",
+      "particularly angry",
+      "particularly creative",
+      "particularly dubious",
+      "particularly restless",
+      "particularly worried",
+      "partly happy",
+      "partly hopeful",
+      "partly mystical",
+      "partly nostalgic",
+      "partly sceptic",
+      "perhaps sad",
+      "plain angry",
+      "plain nostalgic",
+      "plain optimistic",
+      "plain sensitive",
+      "plain thrilled",
+      "possibly thrilled",
+      "possibly tormented",
+      "potentially adventurous",
+      "potentially alive",
+      "potentially delighted",
+      "probably alive",
+      "probably lustful",
+      "randomly clueless",
+      "randomly envious",
+      "randomly excited",
+      "randomly grateful",
+      "randomly happy",
+      "randomly in love",
+      "randomly puzzled",
+      "randomly restless",
+      "randomly sad",
+      "randomly sarcastic",
+      "randomly satisfied",
+      "relatively ecstatic",
+      "relatively happy",
+      "sadly bewitched",
+      "sadly confused",
+      "sadly jealous",
+      "sadly nostalgic",
+      "sadly optimistic",
+      "sadly relieved",
+      "sadly satisfied",
+      "sadly thrilled",
+      "shamelessly anxious",
+      "shamelessly grateful",
+      "shamelessly relieved",
+      "slightly bored",
+      "slightly ecstatic",
+      "slightly pessimistic",
+      "slightly puzzled",
+      "slightly sad",
+      "somehow delighted",
+      "strangely adorable",
+      "strangely anxious",
+      "strangely hopeful",
+      "strangely irritated",
+      "strangely puzzled",
+      "strangely tormented",
+      "substancially deterministic",
+      "substancially grateful",
+      "tenderly angry",
+      "tenderly confused",
+      "tenderly hopeful",
+      "tenderly proud",
+      "tenderly sad",
+      "vaguely bewitched",
+      "vaguely cute",
+      "vaguely delighted",
+      "vaguely ecstatic",
+      "vaguely enthusiastic",
+      "vaguely hopeful",
+      "vaguely relieved",
+      "vaguely satisfied",
+      "vaguely shameless",
+      "weirdly angry",
+      "weirdly irritated",
+      "weirdly puzzled",
+      "weirdly relieved"
+    ],
+    "free will": [
+      "artistic rebellion",
+      "cartesian rebellion",
+      "obedient"
+    ],
+    "mode": [
+      "random points",
+      "text"
+    ],
+    "number of layers": [
+      "1",
+      "2",
+      "3"
+    ],
+    "rendering": [
+      "flat 2D",
+      "isometric 3D"
+    ],
+    "round pads drilling": [
+      "never"
+    ],
+    "shape": [
+      "boxed",
+      "circle",
+      "freedom",
+      "heart",
+      "skull"
+    ],
+    "side": [
+      "bright",
+      "dark"
+    ]
+  },
+  "sum_attributes": {
+    "Attributes": {
+      "10": {
+        "total": 170,
+        "rarity_score": 1.0,
+        "rarity_percent": 1.0
+      }
+    },
+    "black & white": {
+      "no": {
+        "total": 155,
+        "rarity_score": 1.096774193548387,
+        "rarity_percent": 0.9117647058823529
+      },
+      "yes": {
+        "total": 15,
+        "rarity_score": 11.333333333333334,
+        "rarity_percent": 0.08823529411764706
+      }
+    },
+    "board material": {
+      "75k pink": {
+        "total": 3,
+        "rarity_score": 56.666666666666664,
+        "rarity_percent": 0.01764705882352941
+      },
+      "glass": {
+        "total": 64,
+        "rarity_score": 2.65625,
+        "rarity_percent": 0.3764705882352941
+      },
+      "paper": {
+        "total": 53,
+        "rarity_score": 3.207547169811321,
+        "rarity_percent": 0.31176470588235294
+      },
+      "sandpaper": {
+        "total": 50,
+        "rarity_score": 3.4,
+        "rarity_percent": 0.29411764705882354
+      }
+    },
+    "feeling": {
+      "almost adventurous": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "almost anxious": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "almost doubtful": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "almost ecstatic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "almost happy": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "almost hopeful": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "almost joyful": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "almost melancholic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "almost shameless": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "approximately adventurous": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "approximately lustful": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "approximately nostalgic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "bizarrely creative": {
+        "total": 2,
+        "rarity_score": 85.0,
+        "rarity_percent": 0.011764705882352941
+      },
+      "bizarrely curious": {
+        "total": 2,
+        "rarity_score": 85.0,
+        "rarity_percent": 0.011764705882352941
+      },
+      "bizarrely deterministic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "bizarrely hungry": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "bizarrely loving": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "blissfully bored": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "blissfully doubtful": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "blissfully in love": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "bloody angry": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "bloody curious": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "bloody sarcastic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "chiefly clueless": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "chiefly hungry": {
+        "total": 2,
+        "rarity_score": 85.0,
+        "rarity_percent": 0.011764705882352941
+      },
+      "chiefly joyful": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "chiefly satisfied": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "clearly amazed": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "clearly ecstatic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "clearly in love": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "clearly jealous": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "clearly loving": {
+        "total": 2,
+        "rarity_score": 85.0,
+        "rarity_percent": 0.011764705882352941
+      },
+      "clearly pessimistic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "clearly satisfied": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "clearly shameless": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "clearly tormented": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "compulsively creative": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "compulsively deterministic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "compulsively puzzled": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "definitely bored": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "definitely confused": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "definitely worried": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "eventually cute": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "eventually hungry": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "eventually jealous": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "eventually shameless": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "half bewitched": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "half cute": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "half doubtful": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "half melancholic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "half proud": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "half sensitive": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "half shameless": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "hopefully clueless": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "hopefully dubious": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "hopefully ecstatic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "hopefully lustful": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "hopefully proud": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "increasingly joyful": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "increasingly thrilled": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "joyfully nostalgic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "joyfully sceptic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "maybe bewildered": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "maybe happy": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "maybe nostalgic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "maybe sarcastic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "maybe satisfied": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "mostly bewitched": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "mostly in love": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "mostly joyful": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "mostly loving": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "mostly melancholic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "mostly optimistic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "mostly tormented": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "nearly cute": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "nearly ecstatic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "nearly envious": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "nearly puzzled": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "oddly adorable": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "oddly angry": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "oddly joyful": {
+        "total": 4,
+        "rarity_score": 42.5,
+        "rarity_percent": 0.023529411764705882
+      },
+      "oddly shameless": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "particularly angry": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "particularly creative": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "particularly dubious": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "particularly restless": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "particularly worried": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "partly happy": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "partly hopeful": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "partly mystical": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "partly nostalgic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "partly sceptic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "perhaps sad": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "plain angry": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "plain nostalgic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "plain optimistic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "plain sensitive": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "plain thrilled": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "possibly thrilled": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "possibly tormented": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "potentially adventurous": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "potentially alive": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "potentially delighted": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "probably alive": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "probably lustful": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "randomly clueless": {
+        "total": 2,
+        "rarity_score": 85.0,
+        "rarity_percent": 0.011764705882352941
+      },
+      "randomly envious": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "randomly excited": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "randomly grateful": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "randomly happy": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "randomly in love": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "randomly puzzled": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "randomly restless": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "randomly sad": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "randomly sarcastic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "randomly satisfied": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "relatively ecstatic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "relatively happy": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "sadly bewitched": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "sadly confused": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "sadly jealous": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "sadly nostalgic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "sadly optimistic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "sadly relieved": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "sadly satisfied": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "sadly thrilled": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "shamelessly anxious": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "shamelessly grateful": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "shamelessly relieved": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "slightly bored": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "slightly ecstatic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "slightly pessimistic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "slightly puzzled": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "slightly sad": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "somehow delighted": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "strangely adorable": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "strangely anxious": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "strangely hopeful": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "strangely irritated": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "strangely puzzled": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "strangely tormented": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "substancially deterministic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "substancially grateful": {
+        "total": 2,
+        "rarity_score": 85.0,
+        "rarity_percent": 0.011764705882352941
+      },
+      "tenderly angry": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "tenderly confused": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "tenderly hopeful": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "tenderly proud": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "tenderly sad": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "vaguely bewitched": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "vaguely cute": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "vaguely delighted": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "vaguely ecstatic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "vaguely enthusiastic": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "vaguely hopeful": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "vaguely relieved": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "vaguely satisfied": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "vaguely shameless": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "weirdly angry": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "weirdly irritated": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "weirdly puzzled": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      },
+      "weirdly relieved": {
+        "total": 1,
+        "rarity_score": 170.0,
+        "rarity_percent": 0.0058823529411764705
+      }
+    },
+    "free will": {
+      "artistic rebellion": {
+        "total": 8,
+        "rarity_score": 21.25,
+        "rarity_percent": 0.047058823529411764
+      },
+      "cartesian rebellion": {
+        "total": 6,
+        "rarity_score": 28.333333333333332,
+        "rarity_percent": 0.03529411764705882
+      },
+      "obedient": {
+        "total": 156,
+        "rarity_score": 1.0897435897435896,
+        "rarity_percent": 0.9176470588235294
+      }
+    },
+    "mode": {
+      "random points": {
+        "total": 69,
+        "rarity_score": 2.463768115942029,
+        "rarity_percent": 0.40588235294117647
+      },
+      "text": {
+        "total": 101,
+        "rarity_score": 1.683168316831683,
+        "rarity_percent": 0.5941176470588235
+      }
+    },
+    "number of layers": {
+      "1": {
+        "total": 11,
+        "rarity_score": 15.454545454545455,
+        "rarity_percent": 0.06470588235294118
+      },
+      "2": {
+        "total": 137,
+        "rarity_score": 1.2408759124087592,
+        "rarity_percent": 0.8058823529411765
+      },
+      "3": {
+        "total": 22,
+        "rarity_score": 7.7272727272727275,
+        "rarity_percent": 0.12941176470588237
+      }
+    },
+    "rendering": {
+      "flat 2D": {
+        "total": 24,
+        "rarity_score": 7.083333333333333,
+        "rarity_percent": 0.1411764705882353
+      },
+      "isometric 3D": {
+        "total": 146,
+        "rarity_score": 1.1643835616438356,
+        "rarity_percent": 0.8588235294117647
+      }
+    },
+    "round pads drilling": {
+      "never": {
+        "total": 170,
+        "rarity_score": 1.0,
+        "rarity_percent": 1.0
+      }
+    },
+    "shape": {
+      "boxed": {
+        "total": 60,
+        "rarity_score": 2.8333333333333335,
+        "rarity_percent": 0.35294117647058826
+      },
+      "circle": {
+        "total": 48,
+        "rarity_score": 3.5416666666666665,
+        "rarity_percent": 0.2823529411764706
+      },
+      "freedom": {
+        "total": 38,
+        "rarity_score": 4.473684210526316,
+        "rarity_percent": 0.2235294117647059
+      },
+      "heart": {
+        "total": 15,
+        "rarity_score": 11.333333333333334,
+        "rarity_percent": 0.08823529411764706
+      },
+      "skull": {
+        "total": 9,
+        "rarity_score": 18.88888888888889,
+        "rarity_percent": 0.052941176470588235
+      }
+    },
+    "side": {
+      "bright": {
+        "total": 103,
+        "rarity_score": 1.6504854368932038,
+        "rarity_percent": 0.6058823529411764
+      },
+      "dark": {
+        "total": 67,
+        "rarity_score": 2.537313432835821,
+        "rarity_percent": 0.3941176470588235
+      }
+    }
+  },
+  "scores_by_token_id": {
+    "1046705": 261.22603829851886,
+    "1046723": 239.42543101106946,
+    "1048100": 234.2293485675727,
+    "1046487": 226.50291776287827,
+    "1047156": 222.78918208393517,
+    "1047661": 222.5967292537465,
+    "1047359": 220.56166756952317,
+    "1063564": 215.7370801309395,
+    "1046993": 214.98872586772077,
+    "1047435": 213.9182345911372,
+    "1087563": 211.9159959127985,
+    "1046483": 208.8437947107649,
+    "1047475": 208.7007167148223,
+    "1048099": 208.50232905285682,
+    "1047908": 208.13326967164787,
+    "1046743": 207.99622143096255,
+    "1055504": 207.96858433453235,
+    "1053991": 207.96858433453235,
+    "1069633": 207.76691880166354,
+    "1046724": 207.21506145328198,
+    "1047658": 207.17821165417163,
+    "1046704": 206.80726416137367,
+    "1055835": 206.80726416137367,
+    "1047527": 206.29138365822902,
+    "1047930": 206.28360408799253,
+    "1047194": 206.28360408799253,
+    "1048128": 206.25596699156233,
+    "1046715": 205.81900127924072,
+    "1048394": 204.9321732832981,
+    "1056158": 204.89532348418777,
+    "1046693": 203.1379976950113,
+    "1063569": 202.68926746886305,
+    "1134486": 202.2511696990687,
+    "1051958": 202.21431989995835,
+    "1047526": 202.02186706976968,
+    "1054028": 201.47056989995835,
+    "1145389": 201.28823915520937,
+    "1047558": 201.12813960320221,
+    "1046702": 199.30929406339993,
+    "1046493": 198.9593521564337,
+    "1046756": 198.9593521564337,
+    "1063617": 198.17875235732336,
+    "1063610": 197.88425661663143,
+    "1063566": 197.29192436138075,
+    "1047478": 197.17592328329812,
+    "1047047": 197.17592328329812,
+    "1050323": 196.35990681752108,
+    "1046695": 195.43936414351316,
+    "1047207": 195.38549278833827,
+    "1047943": 195.2469113133245,
+    "1056072": 194.9798872022137,
+    "1046680": 194.69561414351315,
+    "1063626": 194.69561414351315,
+    "1046964": 194.31258895431972,
+    "1047341": 194.13409429171043,
+    "1046708": 194.13409429171043,
+    "1125952": 193.9150143444028,
+    "1046703": 193.566647248536,
+    "1047196": 193.566647248536,
+    "1046701": 193.54176203645974,
+    "1047136": 193.35349449260008,
+    "1046699": 193.00139191114528,
+    "1145403": 192.96454211203493,
+    "1046941": 192.85831391520267,
+    "1134490": 192.82289724853598,
+    "1046712": 192.78823915520937,
+    "1046731": 192.78823915520937,
+    "1047643": 192.6820109583771,
+    "1047548": 192.6820109583771,
+    "1066258": 192.59359461923697,
+    "1046730": 192.4527083290781,
+    "1047361": 192.4527083290781,
+    "1125942": 191.88526128590365,
+    "1047688": 189.46654301664876,
+    "1055492": 189.46654301664876,
+    "1053904": 189.46654301664876,
+    "1145402": 189.27409018646009,
+    "1145387": 188.57971502070615,
+    "1046713": 188.57971502070615,
+    "1047519": 188.49349038734974,
+    "1046773": 188.49349038734974,
+    "1145384": 188.49349038734974,
+    "1046821": 188.38726219051748,
+    "1047731": 188.38726219051748,
+    "1046838": 188.38726219051748,
+    "1047375": 187.9421932175384,
+    "1046736": 187.9421932175384,
+    "1047362": 187.9421932175384,
+    "1047199": 187.83596502070614,
+    "1047459": 187.83596502070614,
+    "1046687": 187.82619213945577,
+    "1055782": 187.82619213945577,
+    "1046996": 187.79077547278908,
+    "1046716": 187.79077547278908,
+    "1047395": 187.75392567367874,
+    "1046737": 187.75392567367874,
+    "1063615": 187.75392567367874,
+    "1047192": 187.64769747684647,
+    "1047227": 187.6337393092671,
+    "1050658": 187.6337393092671,
+    "1087632": 187.6337393092671,
+    "1047302": 187.60666239140713,
+    "1048097": 187.56147284349007,
+    "1055499": 187.56147284349007,
+    "1046824": 187.56147284349007,
+    "1055884": 187.56147284349007,
+    "1047141": 187.4552446466578,
+    "1047215": 187.4552446466578,
+    "1046963": 187.4552446466578,
+    "1047462": 187.08244213945576,
+    "1047635": 187.0553652215958,
+    "1046526": 187.04559234034542,
+    "1046746": 187.04559234034542,
+    "1046758": 187.04559234034542,
+    "1047650": 187.04559234034542,
+    "1052590": 187.04559234034542,
+    "1066256": 187.01017567367873,
+    "1047824": 186.93936414351316,
+    "1046688": 186.90394747684647,
+    "1046907": 186.86709767773613,
+    "1046698": 186.86709767773613,
+    "1134488": 186.86709767773613,
+    "1047063": 186.86709767773613,
+    "1145608": 186.86709767773613,
+    "1048478": 186.86709767773613,
+    "1047594": 186.85313951015675,
+    "1052583": 186.85313951015675,
+    "1050723": 186.7469113133245,
+    "1046694": 186.67464484754746,
+    "1046726": 186.30184234034542,
+    "1145383": 186.30184234034542,
+    "1063830": 186.30184234034542,
+    "1047140": 186.19561414351315,
+    "1047468": 186.19561414351315,
+    "1063633": 186.19561414351315,
+    "1055934": 186.1587643444028,
+    "1047458": 186.1587643444028,
+    "1063612": 186.1587643444028,
+    "1046759": 186.12334767773612,
+    "1046735": 186.12334767773612,
+    "1047504": 186.12334767773612,
+    "1046718": 186.12334767773612,
+    "1054020": 186.12334767773612,
+    "1046734": 185.96631151421414,
+    "1046721": 185.96631151421414,
+    "1047533": 185.96631151421414,
+    "1145410": 185.96631151421414,
+    "1046696": 185.96631151421414,
+    "1046915": 185.96631151421414,
+    "1047642": 185.4150143444028,
+    "1063620": 185.4150143444028,
+    "1047476": 185.4150143444028,
+    "1047523": 185.4150143444028,
+    "1048123": 185.4150143444028,
+    "1046754": 183.30937163185217,
+    "1046755": 131.26635862309325,
+    "1052145": 123.84379471076493,
+    "1047424": 110.24691131332445,
+    "1046714": 103.4934903873497,
+    "1046711": 102.82619213945574,
+    "1145385": 102.79911522159577,
+    "1046697": 102.79077547278908,
+    "1047538": 102.60666239140708,
+    "1145386": 101.74691131332445,
+    "1047641": 101.15876434440278,
+    "1046728": 100.41501434440278,
+    "1047399": 68.15157348418775,
+    "1046772": 60.061472843490066,
+    "1056068": 59.439364143513146,
+    "1046786": 58.62334767773613
+  },
+  "scores_by_token_list_for_exact_score_matches": {
+    "261.22603829851886": [
+      "1046705"
+    ],
+    "239.42543101106946": [
+      "1046723"
+    ],
+    "234.2293485675727": [
+      "1048100"
+    ],
+    "226.50291776287827": [
+      "1046487"
+    ],
+    "222.78918208393517": [
+      "1047156"
+    ],
+    "222.5967292537465": [
+      "1047661"
+    ],
+    "220.56166756952317": [
+      "1047359"
+    ],
+    "215.7370801309395": [
+      "1063564"
+    ],
+    "214.98872586772077": [
+      "1046993"
+    ],
+    "213.9182345911372": [
+      "1047435"
+    ],
+    "211.9159959127985": [
+      "1087563"
+    ],
+    "208.8437947107649": [
+      "1046483"
+    ],
+    "208.7007167148223": [
+      "1047475"
+    ],
+    "208.50232905285682": [
+      "1048099"
+    ],
+    "208.13326967164787": [
+      "1047908"
+    ],
+    "207.99622143096255": [
+      "1046743"
+    ],
+    "207.96858433453235": [
+      "1055504",
+      "1053991"
+    ],
+    "207.76691880166354": [
+      "1069633"
+    ],
+    "207.21506145328198": [
+      "1046724"
+    ],
+    "207.17821165417163": [
+      "1047658"
+    ],
+    "206.80726416137367": [
+      "1046704",
+      "1055835"
+    ],
+    "206.29138365822902": [
+      "1047527"
+    ],
+    "206.28360408799253": [
+      "1047930",
+      "1047194"
+    ],
+    "206.25596699156233": [
+      "1048128"
+    ],
+    "205.81900127924072": [
+      "1046715"
+    ],
+    "204.9321732832981": [
+      "1048394"
+    ],
+    "204.89532348418777": [
+      "1056158"
+    ],
+    "203.1379976950113": [
+      "1046693"
+    ],
+    "202.68926746886305": [
+      "1063569"
+    ],
+    "202.2511696990687": [
+      "1134486"
+    ],
+    "202.21431989995835": [
+      "1051958"
+    ],
+    "202.02186706976968": [
+      "1047526"
+    ],
+    "201.47056989995835": [
+      "1054028"
+    ],
+    "201.28823915520937": [
+      "1145389"
+    ],
+    "201.12813960320221": [
+      "1047558"
+    ],
+    "199.30929406339993": [
+      "1046702"
+    ],
+    "198.9593521564337": [
+      "1046493",
+      "1046756"
+    ],
+    "198.17875235732336": [
+      "1063617"
+    ],
+    "197.88425661663143": [
+      "1063610"
+    ],
+    "197.29192436138075": [
+      "1063566"
+    ],
+    "197.17592328329812": [
+      "1047478",
+      "1047047"
+    ],
+    "196.35990681752108": [
+      "1050323"
+    ],
+    "195.43936414351316": [
+      "1046695"
+    ],
+    "195.38549278833827": [
+      "1047207"
+    ],
+    "195.2469113133245": [
+      "1047943"
+    ],
+    "194.9798872022137": [
+      "1056072"
+    ],
+    "194.69561414351315": [
+      "1046680",
+      "1063626"
+    ],
+    "194.31258895431972": [
+      "1046964"
+    ],
+    "194.13409429171043": [
+      "1047341",
+      "1046708"
+    ],
+    "193.9150143444028": [
+      "1125952"
+    ],
+    "193.566647248536": [
+      "1046703",
+      "1047196"
+    ],
+    "193.54176203645974": [
+      "1046701"
+    ],
+    "193.35349449260008": [
+      "1047136"
+    ],
+    "193.00139191114528": [
+      "1046699"
+    ],
+    "192.96454211203493": [
+      "1145403"
+    ],
+    "192.85831391520267": [
+      "1046941"
+    ],
+    "192.82289724853598": [
+      "1134490"
+    ],
+    "192.78823915520937": [
+      "1046712",
+      "1046731"
+    ],
+    "192.6820109583771": [
+      "1047643",
+      "1047548"
+    ],
+    "192.59359461923697": [
+      "1066258"
+    ],
+    "192.4527083290781": [
+      "1046730",
+      "1047361"
+    ],
+    "191.88526128590365": [
+      "1125942"
+    ],
+    "189.46654301664876": [
+      "1047688",
+      "1055492",
+      "1053904"
+    ],
+    "189.27409018646009": [
+      "1145402"
+    ],
+    "188.57971502070615": [
+      "1145387",
+      "1046713"
+    ],
+    "188.49349038734974": [
+      "1047519",
+      "1046773",
+      "1145384"
+    ],
+    "188.38726219051748": [
+      "1046821",
+      "1047731",
+      "1046838"
+    ],
+    "187.9421932175384": [
+      "1047375",
+      "1046736",
+      "1047362"
+    ],
+    "187.83596502070614": [
+      "1047199",
+      "1047459"
+    ],
+    "187.82619213945577": [
+      "1046687",
+      "1055782"
+    ],
+    "187.79077547278908": [
+      "1046996",
+      "1046716"
+    ],
+    "187.75392567367874": [
+      "1047395",
+      "1046737",
+      "1063615"
+    ],
+    "187.64769747684647": [
+      "1047192"
+    ],
+    "187.6337393092671": [
+      "1047227",
+      "1050658",
+      "1087632"
+    ],
+    "187.60666239140713": [
+      "1047302"
+    ],
+    "187.56147284349007": [
+      "1048097",
+      "1055499",
+      "1046824",
+      "1055884"
+    ],
+    "187.4552446466578": [
+      "1047141",
+      "1047215",
+      "1046963"
+    ],
+    "187.08244213945576": [
+      "1047462"
+    ],
+    "187.0553652215958": [
+      "1047635"
+    ],
+    "187.04559234034542": [
+      "1046526",
+      "1046746",
+      "1046758",
+      "1047650",
+      "1052590"
+    ],
+    "187.01017567367873": [
+      "1066256"
+    ],
+    "186.93936414351316": [
+      "1047824"
+    ],
+    "186.90394747684647": [
+      "1046688"
+    ],
+    "186.86709767773613": [
+      "1046907",
+      "1046698",
+      "1134488",
+      "1047063",
+      "1145608",
+      "1048478"
+    ],
+    "186.85313951015675": [
+      "1047594",
+      "1052583"
+    ],
+    "186.7469113133245": [
+      "1050723"
+    ],
+    "186.67464484754746": [
+      "1046694"
+    ],
+    "186.30184234034542": [
+      "1046726",
+      "1145383",
+      "1063830"
+    ],
+    "186.19561414351315": [
+      "1047140",
+      "1047468",
+      "1063633"
+    ],
+    "186.1587643444028": [
+      "1055934",
+      "1047458",
+      "1063612"
+    ],
+    "186.12334767773612": [
+      "1046759",
+      "1046735",
+      "1047504",
+      "1046718",
+      "1054020"
+    ],
+    "185.96631151421414": [
+      "1046734",
+      "1046721",
+      "1047533",
+      "1145410",
+      "1046696",
+      "1046915"
+    ],
+    "185.4150143444028": [
+      "1047642",
+      "1063620",
+      "1047476",
+      "1047523",
+      "1048123"
+    ],
+    "183.30937163185217": [
+      "1046754"
+    ],
+    "131.26635862309325": [
+      "1046755"
+    ],
+    "123.84379471076493": [
+      "1052145"
+    ],
+    "110.24691131332445": [
+      "1047424"
+    ],
+    "103.4934903873497": [
+      "1046714"
+    ],
+    "102.82619213945574": [
+      "1046711"
+    ],
+    "102.79911522159577": [
+      "1145385"
+    ],
+    "102.79077547278908": [
+      "1046697"
+    ],
+    "102.60666239140708": [
+      "1047538"
+    ],
+    "101.74691131332445": [
+      "1145386"
+    ],
+    "101.15876434440278": [
+      "1047641"
+    ],
+    "100.41501434440278": [
+      "1046728"
+    ],
+    "68.15157348418775": [
+      "1047399"
+    ],
+    "60.061472843490066": [
+      "1046772"
+    ],
+    "59.439364143513146": [
+      "1056068"
+    ],
+    "58.62334767773613": [
+      "1046786"
+    ]
+  },
+  "ranks": {
+    "by_token_id": {
+      "1046705": 1,
+      "1046723": 2,
+      "1048100": 3,
+      "1046487": 4,
+      "1047156": 5,
+      "1047661": 6,
+      "1047359": 7,
+      "1063564": 8,
+      "1046993": 9,
+      "1047435": 10,
+      "1087563": 11,
+      "1046483": 12,
+      "1047475": 13,
+      "1048099": 14,
+      "1047908": 15,
+      "1046743": 16,
+      "1055504": 17,
+      "1053991": 17,
+      "1069633": 19,
+      "1046724": 20,
+      "1047658": 21,
+      "1046704": 22,
+      "1055835": 22,
+      "1047527": 24,
+      "1047930": 25,
+      "1047194": 25,
+      "1048128": 27,
+      "1046715": 28,
+      "1048394": 29,
+      "1056158": 30,
+      "1046693": 31,
+      "1063569": 32,
+      "1134486": 33,
+      "1051958": 34,
+      "1047526": 35,
+      "1054028": 36,
+      "1145389": 37,
+      "1047558": 38,
+      "1046702": 39,
+      "1046493": 40,
+      "1046756": 40,
+      "1063617": 42,
+      "1063610": 43,
+      "1063566": 44,
+      "1047478": 45,
+      "1047047": 45,
+      "1050323": 47,
+      "1046695": 48,
+      "1047207": 49,
+      "1047943": 50,
+      "1056072": 51,
+      "1046680": 52,
+      "1063626": 52,
+      "1046964": 54,
+      "1047341": 55,
+      "1046708": 55,
+      "1125952": 57,
+      "1046703": 58,
+      "1047196": 58,
+      "1046701": 60,
+      "1047136": 61,
+      "1046699": 62,
+      "1145403": 63,
+      "1046941": 64,
+      "1134490": 65,
+      "1046712": 66,
+      "1046731": 66,
+      "1047643": 68,
+      "1047548": 68,
+      "1066258": 70,
+      "1046730": 71,
+      "1047361": 71,
+      "1125942": 73,
+      "1047688": 74,
+      "1055492": 74,
+      "1053904": 74,
+      "1145402": 77,
+      "1145387": 78,
+      "1046713": 78,
+      "1047519": 80,
+      "1046773": 80,
+      "1145384": 80,
+      "1046821": 83,
+      "1047731": 83,
+      "1046838": 83,
+      "1047375": 86,
+      "1046736": 86,
+      "1047362": 86,
+      "1047199": 89,
+      "1047459": 89,
+      "1046687": 91,
+      "1055782": 91,
+      "1046996": 93,
+      "1046716": 93,
+      "1047395": 95,
+      "1046737": 95,
+      "1063615": 95,
+      "1047192": 98,
+      "1047227": 99,
+      "1050658": 99,
+      "1087632": 99,
+      "1047302": 102,
+      "1048097": 103,
+      "1055499": 103,
+      "1046824": 103,
+      "1055884": 103,
+      "1047141": 107,
+      "1047215": 107,
+      "1046963": 107,
+      "1047462": 110,
+      "1047635": 111,
+      "1046526": 112,
+      "1046746": 112,
+      "1046758": 112,
+      "1047650": 112,
+      "1052590": 112,
+      "1066256": 117,
+      "1047824": 118,
+      "1046688": 119,
+      "1046907": 120,
+      "1046698": 120,
+      "1134488": 120,
+      "1047063": 120,
+      "1145608": 120,
+      "1048478": 120,
+      "1047594": 126,
+      "1052583": 126,
+      "1050723": 128,
+      "1046694": 129,
+      "1046726": 130,
+      "1145383": 130,
+      "1063830": 130,
+      "1047140": 133,
+      "1047468": 133,
+      "1063633": 133,
+      "1055934": 136,
+      "1047458": 136,
+      "1063612": 136,
+      "1046759": 139,
+      "1046735": 139,
+      "1047504": 139,
+      "1046718": 139,
+      "1054020": 139,
+      "1046734": 144,
+      "1046721": 144,
+      "1047533": 144,
+      "1145410": 144,
+      "1046696": 144,
+      "1046915": 144,
+      "1047642": 150,
+      "1063620": 150,
+      "1047476": 150,
+      "1047523": 150,
+      "1048123": 150,
+      "1046754": 155,
+      "1046755": 156,
+      "1052145": 157,
+      "1047424": 158,
+      "1046714": 159,
+      "1046711": 160,
+      "1145385": 161,
+      "1046697": 162,
+      "1047538": 163,
+      "1145386": 164,
+      "1047641": 165,
+      "1046728": 166,
+      "1047399": 167,
+      "1046772": 168,
+      "1056068": 169,
+      "1046786": 170
+    },
+    "by_rank": {
+      "1": [
+        "1046705"
+      ],
+      "2": [
+        "1046723"
+      ],
+      "3": [
+        "1048100"
+      ],
+      "4": [
+        "1046487"
+      ],
+      "5": [
+        "1047156"
+      ],
+      "6": [
+        "1047661"
+      ],
+      "7": [
+        "1047359"
+      ],
+      "8": [
+        "1063564"
+      ],
+      "9": [
+        "1046993"
+      ],
+      "10": [
+        "1047435"
+      ],
+      "11": [
+        "1087563"
+      ],
+      "12": [
+        "1046483"
+      ],
+      "13": [
+        "1047475"
+      ],
+      "14": [
+        "1048099"
+      ],
+      "15": [
+        "1047908"
+      ],
+      "16": [
+        "1046743"
+      ],
+      "17": [
+        "1055504",
+        "1053991"
+      ],
+      "19": [
+        "1069633"
+      ],
+      "20": [
+        "1046724"
+      ],
+      "21": [
+        "1047658"
+      ],
+      "22": [
+        "1046704",
+        "1055835"
+      ],
+      "24": [
+        "1047527"
+      ],
+      "25": [
+        "1047930",
+        "1047194"
+      ],
+      "27": [
+        "1048128"
+      ],
+      "28": [
+        "1046715"
+      ],
+      "29": [
+        "1048394"
+      ],
+      "30": [
+        "1056158"
+      ],
+      "31": [
+        "1046693"
+      ],
+      "32": [
+        "1063569"
+      ],
+      "33": [
+        "1134486"
+      ],
+      "34": [
+        "1051958"
+      ],
+      "35": [
+        "1047526"
+      ],
+      "36": [
+        "1054028"
+      ],
+      "37": [
+        "1145389"
+      ],
+      "38": [
+        "1047558"
+      ],
+      "39": [
+        "1046702"
+      ],
+      "40": [
+        "1046493",
+        "1046756"
+      ],
+      "42": [
+        "1063617"
+      ],
+      "43": [
+        "1063610"
+      ],
+      "44": [
+        "1063566"
+      ],
+      "45": [
+        "1047478",
+        "1047047"
+      ],
+      "47": [
+        "1050323"
+      ],
+      "48": [
+        "1046695"
+      ],
+      "49": [
+        "1047207"
+      ],
+      "50": [
+        "1047943"
+      ],
+      "51": [
+        "1056072"
+      ],
+      "52": [
+        "1046680",
+        "1063626"
+      ],
+      "54": [
+        "1046964"
+      ],
+      "55": [
+        "1047341",
+        "1046708"
+      ],
+      "57": [
+        "1125952"
+      ],
+      "58": [
+        "1046703",
+        "1047196"
+      ],
+      "60": [
+        "1046701"
+      ],
+      "61": [
+        "1047136"
+      ],
+      "62": [
+        "1046699"
+      ],
+      "63": [
+        "1145403"
+      ],
+      "64": [
+        "1046941"
+      ],
+      "65": [
+        "1134490"
+      ],
+      "66": [
+        "1046712",
+        "1046731"
+      ],
+      "68": [
+        "1047643",
+        "1047548"
+      ],
+      "70": [
+        "1066258"
+      ],
+      "71": [
+        "1046730",
+        "1047361"
+      ],
+      "73": [
+        "1125942"
+      ],
+      "74": [
+        "1047688",
+        "1055492",
+        "1053904"
+      ],
+      "77": [
+        "1145402"
+      ],
+      "78": [
+        "1145387",
+        "1046713"
+      ],
+      "80": [
+        "1047519",
+        "1046773",
+        "1145384"
+      ],
+      "83": [
+        "1046821",
+        "1047731",
+        "1046838"
+      ],
+      "86": [
+        "1047375",
+        "1046736",
+        "1047362"
+      ],
+      "89": [
+        "1047199",
+        "1047459"
+      ],
+      "91": [
+        "1046687",
+        "1055782"
+      ],
+      "93": [
+        "1046996",
+        "1046716"
+      ],
+      "95": [
+        "1047395",
+        "1046737",
+        "1063615"
+      ],
+      "98": [
+        "1047192"
+      ],
+      "99": [
+        "1047227",
+        "1050658",
+        "1087632"
+      ],
+      "102": [
+        "1047302"
+      ],
+      "103": [
+        "1048097",
+        "1055499",
+        "1046824",
+        "1055884"
+      ],
+      "107": [
+        "1047141",
+        "1047215",
+        "1046963"
+      ],
+      "110": [
+        "1047462"
+      ],
+      "111": [
+        "1047635"
+      ],
+      "112": [
+        "1046526",
+        "1046746",
+        "1046758",
+        "1047650",
+        "1052590"
+      ],
+      "117": [
+        "1066256"
+      ],
+      "118": [
+        "1047824"
+      ],
+      "119": [
+        "1046688"
+      ],
+      "120": [
+        "1046907",
+        "1046698",
+        "1134488",
+        "1047063",
+        "1145608",
+        "1048478"
+      ],
+      "126": [
+        "1047594",
+        "1052583"
+      ],
+      "128": [
+        "1050723"
+      ],
+      "129": [
+        "1046694"
+      ],
+      "130": [
+        "1046726",
+        "1145383",
+        "1063830"
+      ],
+      "133": [
+        "1047140",
+        "1047468",
+        "1063633"
+      ],
+      "136": [
+        "1055934",
+        "1047458",
+        "1063612"
+      ],
+      "139": [
+        "1046759",
+        "1046735",
+        "1047504",
+        "1046718",
+        "1054020"
+      ],
+      "144": [
+        "1046734",
+        "1046721",
+        "1047533",
+        "1145410",
+        "1046696",
+        "1046915"
+      ],
+      "150": [
+        "1047642",
+        "1063620",
+        "1047476",
+        "1047523",
+        "1048123"
+      ],
+      "155": [
+        "1046754"
+      ],
+      "156": [
+        "1046755"
+      ],
+      "157": [
+        "1052145"
+      ],
+      "158": [
+        "1047424"
+      ],
+      "159": [
+        "1046714"
+      ],
+      "160": [
+        "1046711"
+      ],
+      "161": [
+        "1145385"
+      ],
+      "162": [
+        "1046697"
+      ],
+      "163": [
+        "1047538"
+      ],
+      "164": [
+        "1145386"
+      ],
+      "165": [
+        "1047641"
+      ],
+      "166": [
+        "1046728"
+      ],
+      "167": [
+        "1047399"
+      ],
+      "168": [
+        "1046772"
+      ],
+      "169": [
+        "1056068"
+      ],
+      "170": [
+        "1046786"
+      ]
+    }
+  }
+}
